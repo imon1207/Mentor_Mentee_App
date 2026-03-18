@@ -1,0 +1,6 @@
+username,password,role,name,email
+admin,admin123,admin,Administrator,admin@mentornet.io
+mentor1,mentor123,mentor,Carlos Davis,mentor1@mentornet.io
+mentor2,pass456,mentor,Riya Lewis,mentor2@mentornet.io
+mentee1,mentee123,mentee,Arjun Sharma,mentee1@mentornet.io
+mentee2,pass789,mentee,Priya Patel,mentee2@mentornet.io

@@ -1,0 +1,1001 @@
+session_id,mentor_id,mentee_id,mentor_name,mentee_name,domain,session_date,duration_min,status,rating_given,notes
+S00001,M0096,T0476,Pooja White,James Anderson,UI/UX Design,2023-07-21,45,Completed,3.6,Code review session
+S00002,M0070,T0285,Zara Rossi,Liam White,Cloud Computing,2023-01-20,90,Completed,4.4,Covered system design
+S00003,M0023,T0156,Kofi Wilson,Ahmed Osei,Mobile Development,2022-06-08,45,Completed,,Mock interview
+S00004,M0145,T0225,Amara Wang,Amara Tremblay,UI/UX Design,2023-01-19,90,Scheduled,4.9,Project feedback
+S00005,M0034,T0446,Nadia Rossi,Alex Sharma,Mobile Development,2023-01-18,90,Scheduled,5.0,Discussed portfolio review
+S00006,M0154,T0131,Emma Davis,Elena Garcia,Machine Learning,2023-02-23,30,Completed,4.1,Covered system design
+S00007,M0178,T0288,Ahmed Sharma,Tyler Patel,Product Management,2023-03-23,60,No-show,4.4,Project feedback
+S00008,M0097,T0376,Wei Garcia,Mei Tremblay,DevOps,2023-12-07,60,No-show,,Career roadmap planning
+S00009,M0035,T0125,Tyler Ali,Kofi Martinez,Cybersecurity,2023-03-11,45,Completed,4.8,Code review session
+S00010,M0133,T0136,Aarav Ali,Amara Osei,Cybersecurity,2023-10-09,30,No-show,3.3,Mock interview
+S00011,M0164,T0491,Rohan Clark,James Müller,Cloud Computing,2023-04-12,45,Completed,,Mock interview
+S00012,M0200,T0124,Liam Kumar,Arjun White,Cybersecurity,2023-11-10,45,Completed,,Discussed portfolio review
+S00013,M0055,T0169,Tyler Silva,Omar Wang,Mobile Development,2023-10-22,90,Scheduled,4.9,Discussed portfolio review
+S00014,M0197,T0207,Nadia Harris,Emma White,DevOps,2023-06-15,45,Scheduled,,Career roadmap planning
+S00015,M0095,T0034,Aarav Wilson,Divya Taylor,Web Development,2022-09-16,60,Cancelled,4.3,Career roadmap planning
+S00016,M0193,T0096,Michael Lee,Kofi Robinson,Data Science,2023-08-24,60,No-show,4.8,Project feedback
+S00017,M0113,T0360,Isabelle Wang,Emma Martinez,Cloud Computing,2022-04-02,30,No-show,4.6,
+S00018,M0067,T0261,Chloe Osei,Aisha Hall,Product Management,2022-05-27,60,No-show,,Project feedback
+S00019,M0142,T0456,Kofi Tremblay,Carlos Kumar,Web Development,2023-02-12,60,Completed,4.6,Discussed portfolio review
+S00020,M0064,T0256,Priya Patel,Lucas Kumar,Machine Learning,2022-04-10,30,No-show,3.8,Code review session
+S00021,M0132,T0032,Hannah Wang,Chloe Patel,Mobile Development,2023-03-18,45,Completed,4.4,Covered system design
+S00022,M0092,T0229,Ahmed Davis,Fatima Silva,Product Management,2023-05-14,45,Cancelled,3.9,
+S00023,M0179,T0161,Chloe Sharma,Arjun Brown,Machine Learning,2022-08-06,45,Completed,,Covered system design
+S00024,M0164,T0005,Rohan Clark,Lucas Smith,Cloud Computing,2022-07-16,60,Scheduled,4.8,Discussed portfolio review
+S00025,M0136,T0323,Daniel White,Ivan Hall,Machine Learning,2023-10-14,45,Completed,,Career roadmap planning
+S00026,M0011,T0487,Noah Clark,Arjun Silva,Web Development,2022-05-08,60,Completed,4.2,Career roadmap planning
+S00027,M0035,T0167,Tyler Ali,Ahmed Martinez,Cybersecurity,2023-05-12,30,Completed,,
+S00028,M0136,T0406,Daniel White,Isabelle Martinez,Machine Learning,2022-01-08,30,Completed,,
+S00029,M0077,T0451,Noah Brown,Noah Silva,Blockchain,2022-01-08,90,Cancelled,4.9,Code review session
+S00030,M0070,T0329,Zara Rossi,Aarav Kumar,Cloud Computing,2023-05-13,90,Completed,3.7,Project feedback
+S00031,M0164,T0199,Rohan Clark,Carlos Osei,Cloud Computing,2022-12-18,60,Completed,4.3,Career roadmap planning
+S00032,M0139,T0177,Raj Harris,Yusuf Ali,Mobile Development,2023-09-18,30,Completed,4.6,Discussed portfolio review
+S00033,M0061,T0118,Michael Harris,Priya Hall,UI/UX Design,2023-04-13,90,No-show,4.9,Discussed portfolio review
+S00034,M0039,T0087,Priya Garcia,Lucas Harris,Web Development,2023-09-09,30,Cancelled,,Project feedback
+S00035,M0006,T0211,Liam Lewis,Kiran Martinez,Data Science,2022-09-12,60,Scheduled,4.3,Career roadmap planning
+S00036,M0196,T0091,Sarah Thompson,Chloe Wilson,Mobile Development,2023-06-12,90,No-show,,Project feedback
+S00037,M0022,T0137,Divya Brown,Nadia Kim,Cybersecurity,2022-11-26,30,No-show,3.1,
+S00038,M0137,T0168,Michael Young,Isabelle Harris,Machine Learning,2022-11-30,90,Completed,3.8,Mock interview
+S00039,M0117,T0455,Zara Davis,Aisha Garcia,Blockchain,2022-03-25,60,Scheduled,4.9,Career roadmap planning
+S00040,M0084,T0351,Rohan Ali,Omar Lewis,Blockchain,2023-11-06,30,No-show,4.2,Project feedback
+S00041,M0065,T0088,Alex Walker,Wei Anderson,Machine Learning,2022-05-27,30,Completed,3.2,
+S00042,M0051,T0291,Olivia Kim,Elena Martinez,Cybersecurity,2023-11-21,90,Completed,4.9,Career roadmap planning
+S00043,M0068,T0070,Lucas Martinez,Chloe Thompson,Product Management,2023-11-10,45,Completed,,
+S00044,M0165,T0193,James Ali,Kiran Wang,Machine Learning,2023-11-07,30,Completed,4.4,Covered system design
+S00045,M0129,T0008,Sofia Ali,Daniel Robinson,DevOps,2022-12-01,90,Completed,,Code review session
+S00046,M0018,T0415,Divya Young,Zara Johnson,Product Management,2023-11-13,90,No-show,,Covered system design
+S00047,M0170,T0328,James Martinez,Sarah Thompson,Cybersecurity,2023-07-02,90,Completed,3.7,Covered system design
+S00048,M0147,T0266,Kofi Wilson,Hannah Ali,Product Management,2023-08-13,30,No-show,4.8,Project feedback
+S00049,M0091,T0097,Omar Rossi,Olivia Smith,Web Development,2023-01-26,90,Completed,,Discussed portfolio review
+S00050,M0055,T0460,Tyler Silva,Rohan Clark,Mobile Development,2022-10-25,30,Completed,,Project feedback
+S00051,M0083,T0170,Priya Kim,Isabelle Osei,Product Management,2023-08-30,45,No-show,4.1,Covered system design
+S00052,M0035,T0171,Tyler Ali,Alex Garcia,Cybersecurity,2022-11-17,90,Cancelled,3.6,Mock interview
+S00053,M0126,T0346,Liam Patel,Aisha Hall,Blockchain,2023-07-03,45,Scheduled,3.6,Code review session
+S00054,M0167,T0250,Mei Silva,Hannah Taylor,DevOps,2023-11-27,45,Cancelled,4.2,Discussed portfolio review
+S00055,M0195,T0315,Fatima Lewis,Carlos Tremblay,Web Development,2023-02-09,30,Cancelled,3.6,
+S00056,M0096,T0204,Pooja White,Omar White,UI/UX Design,2022-10-31,45,Scheduled,3.3,Code review session
+S00057,M0107,T0145,Liam Lewis,Sana Harris,Cloud Computing,2022-05-30,30,Cancelled,4.0,Project feedback
+S00058,M0065,T0269,Alex Walker,Priya Harris,Machine Learning,2022-05-07,60,No-show,4.3,Covered system design
+S00059,M0160,T0151,Rohan Clark,Fatima Kim,Blockchain,2023-05-22,60,No-show,3.1,
+S00060,M0184,T0096,Noah Martinez,Kofi Robinson,UI/UX Design,2022-12-08,45,No-show,,Project feedback
+S00061,M0174,T0011,Mei Sharma,Kofi Robinson,Machine Learning,2022-08-19,30,Completed,4.5,Code review session
+S00062,M0129,T0380,Sofia Ali,Elena Davis,DevOps,2023-11-07,45,Completed,3.7,Project feedback
+S00063,M0031,T0148,Lucas Lewis,Rohan Anderson,Cybersecurity,2023-04-30,60,Scheduled,4.1,Code review session
+S00064,M0023,T0498,Kofi Wilson,Kofi Harris,Mobile Development,2022-10-17,45,No-show,3.8,Covered system design
+S00065,M0101,T0016,Mei Davis,Sana Robinson,UI/UX Design,2022-11-28,30,No-show,4.3,Mock interview
+S00066,M0072,T0441,Carlos Patel,Lucas White,UI/UX Design,2022-05-21,90,No-show,4.8,Covered system design
+S00067,M0004,T0485,Liam Thompson,Fatima White,Cybersecurity,2022-08-12,45,No-show,3.7,
+S00068,M0018,T0214,Divya Young,Liam Lee,Product Management,2023-08-13,30,No-show,4.7,Career roadmap planning
+S00069,M0053,T0495,Isabelle Johnson,Carlos Müller,Cloud Computing,2023-03-14,45,Completed,,Career roadmap planning
+S00070,M0171,T0013,Isabelle Tremblay,Olivia Müller,Product Management,2022-07-03,30,Completed,4.3,Mock interview
+S00071,M0135,T0288,Liam Sharma,Tyler Patel,Machine Learning,2023-03-21,45,No-show,3.5,Discussed portfolio review
+S00072,M0041,T0488,Chloe Lewis,Michael Silva,Cloud Computing,2022-09-04,90,Scheduled,4.2,Covered system design
+S00073,M0003,T0142,Aarav Tremblay,Daniel Garcia,Web Development,2023-10-31,90,No-show,4.3,Discussed portfolio review
+S00074,M0182,T0309,Fatima Robinson,Tyler Lee,Product Management,2023-04-20,90,Completed,3.9,Discussed portfolio review
+S00075,M0040,T0125,James Osei,Kofi Martinez,Machine Learning,2022-05-03,30,Completed,,Project feedback
+S00076,M0064,T0386,Priya Patel,Fatima Kim,Machine Learning,2023-11-16,45,Completed,5.0,Career roadmap planning
+S00077,M0096,T0211,Pooja White,Kiran Martinez,UI/UX Design,2022-10-08,30,Cancelled,,Career roadmap planning
+S00078,M0139,T0198,Raj Harris,Sofia Ali,Mobile Development,2023-10-23,90,Completed,3.2,Discussed portfolio review
+S00079,M0180,T0049,Chloe Johnson,Priya Martinez,Blockchain,2024-01-01,45,Scheduled,3.0,Mock interview
+S00080,M0080,T0059,Michael Thompson,Omar Tremblay,DevOps,2023-07-04,90,Completed,4.2,Project feedback
+S00081,M0188,T0476,Arjun Wang,James Anderson,Web Development,2023-10-30,30,Completed,4.8,Covered system design
+S00082,M0018,T0497,Divya Young,Emma Martinez,Product Management,2023-09-06,45,Completed,4.6,Discussed portfolio review
+S00083,M0156,T0318,Ethan Lee,Aarav Wang,Web Development,2022-02-10,45,Cancelled,,Covered system design
+S00084,M0028,T0099,Daniel Patel,Ahmed Young,Product Management,2022-03-31,60,Completed,,Discussed portfolio review
+S00085,M0153,T0229,Lucas Kumar,Fatima Silva,Cybersecurity,2023-06-03,60,Completed,3.3,Project feedback
+S00086,M0003,T0071,Aarav Tremblay,Isabelle Patel,Web Development,2022-01-01,45,Completed,,Mock interview
+S00087,M0017,T0156,Kofi White,Ahmed Osei,Mobile Development,2022-10-28,90,Completed,4.4,Mock interview
+S00088,M0173,T0248,James Young,Zara Taylor,DevOps,2022-12-27,45,No-show,,
+S00089,M0090,T0303,Noah Davis,Raj Young,DevOps,2022-02-15,45,Completed,,Code review session
+S00090,M0129,T0056,Sofia Ali,Kofi Brown,DevOps,2022-08-09,45,Cancelled,4.2,Code review session
+S00091,M0176,T0229,Alex Kim,Fatima Silva,DevOps,2022-05-12,90,Completed,3.5,Project feedback
+S00092,M0062,T0277,Arjun Harris,Carlos Wang,Blockchain,2022-06-17,90,Scheduled,,Code review session
+S00093,M0167,T0213,Mei Silva,Pooja Anderson,DevOps,2023-11-24,90,No-show,,Covered system design
+S00094,M0057,T0383,Nadia Wilson,Ethan Ali,Data Science,2022-03-14,60,No-show,3.4,Code review session
+S00095,M0017,T0045,Kofi White,Lucas Thompson,Mobile Development,2023-08-01,45,Scheduled,3.6,
+S00096,M0039,T0445,Priya Garcia,Aarav Thompson,Web Development,2023-03-21,90,Completed,3.5,Code review session
+S00097,M0038,T0498,Fatima Rossi,Kofi Harris,UI/UX Design,2022-05-08,30,No-show,3.1,Project feedback
+S00098,M0089,T0245,Elena Smith,Sofia Harris,Product Management,2022-04-02,60,Completed,3.3,
+S00099,M0099,T0239,Raj Clark,Isabelle Kim,DevOps,2022-08-20,60,Completed,,Covered system design
+S00100,M0118,T0266,Nadia Lee,Hannah Ali,Cybersecurity,2023-01-23,30,Completed,,Project feedback
+S00101,M0193,T0454,Michael Lee,Yusuf Johnson,Data Science,2022-11-10,90,Completed,4.4,
+S00102,M0058,T0040,Olivia Garcia,Michael Müller,Blockchain,2022-10-16,60,Cancelled,,Discussed portfolio review
+S00103,M0113,T0130,Isabelle Wang,Isabelle Sharma,Cloud Computing,2022-06-24,60,Scheduled,,
+S00104,M0012,T0356,Isabelle Hall,Priya Martinez,UI/UX Design,2023-11-26,90,Scheduled,3.5,Project feedback
+S00105,M0090,T0305,Noah Davis,Alex Robinson,DevOps,2023-06-10,45,No-show,,Career roadmap planning
+S00106,M0059,T0358,Yusuf Lee,Isabelle Martinez,Cybersecurity,2023-08-05,60,Completed,4.3,Code review session
+S00107,M0041,T0459,Chloe Lewis,Emma Martinez,Cloud Computing,2023-12-26,45,No-show,4.4,Covered system design
+S00108,M0069,T0092,Michael Harris,Sana Kumar,Web Development,2023-03-26,60,Scheduled,3.6,Career roadmap planning
+S00109,M0080,T0446,Michael Thompson,Alex Sharma,DevOps,2023-06-18,45,Completed,3.2,Code review session
+S00110,M0038,T0046,Fatima Rossi,Lucas Müller,UI/UX Design,2023-02-21,60,Completed,3.2,Covered system design
+S00111,M0180,T0493,Chloe Johnson,Lucas Sharma,Blockchain,2022-04-06,45,Cancelled,,Project feedback
+S00112,M0105,T0299,Ethan Wilson,Omar Taylor,DevOps,2022-10-20,90,Completed,3.8,Mock interview
+S00113,M0189,T0030,Noah Garcia,James Martinez,Machine Learning,2022-05-20,90,Scheduled,5.0,Mock interview
+S00114,M0152,T0307,Michael Ali,Divya Patel,Cybersecurity,2023-12-16,30,Scheduled,,Covered system design
+S00115,M0174,T0328,Mei Sharma,Sarah Thompson,Machine Learning,2022-01-08,90,No-show,3.7,Project feedback
+S00116,M0170,T0200,James Martinez,Aisha Silva,Cybersecurity,2023-11-09,30,Cancelled,3.3,
+S00117,M0078,T0069,Kofi Thompson,Tyler Martinez,Mobile Development,2023-06-21,45,Completed,,
+S00118,M0044,T0404,Yusuf Sharma,Noah Smith,Product Management,2022-05-17,60,Completed,3.8,Code review session
+S00119,M0061,T0366,Michael Harris,Wei Ali,UI/UX Design,2022-04-26,60,No-show,,Mock interview
+S00120,M0078,T0340,Kofi Thompson,Olivia Young,Mobile Development,2022-05-01,60,Completed,3.5,Discussed portfolio review
+S00121,M0129,T0022,Sofia Ali,Pooja Silva,DevOps,2023-10-09,90,Completed,4.9,Project feedback
+S00122,M0022,T0016,Divya Brown,Sana Robinson,Cybersecurity,2023-06-12,30,Scheduled,4.7,Discussed portfolio review
+S00123,M0001,T0240,Nadia Garcia,Olivia Wang,Web Development,2022-12-31,30,Cancelled,3.6,Discussed portfolio review
+S00124,M0072,T0161,Carlos Patel,Arjun Brown,UI/UX Design,2022-01-06,60,No-show,,Code review session
+S00125,M0084,T0014,Rohan Ali,Hannah Wilson,Blockchain,2022-01-10,30,Scheduled,3.2,Mock interview
+S00126,M0048,T0252,Yusuf Osei,Olivia Lee,Data Science,2022-06-07,90,Completed,3.0,
+S00127,M0007,T0301,Amara Harris,James Garcia,Cloud Computing,2023-11-04,60,Completed,3.7,Code review session
+S00128,M0121,T0374,Elena Davis,Zara Walker,UI/UX Design,2023-03-15,45,Cancelled,3.2,Career roadmap planning
+S00129,M0067,T0330,Chloe Osei,Noah Tremblay,Product Management,2023-11-04,90,Completed,,Project feedback
+S00130,M0059,T0296,Yusuf Lee,Olivia Kumar,Cybersecurity,2023-03-21,30,Completed,4.4,Discussed portfolio review
+S00131,M0181,T0380,Daniel Tremblay,Elena Davis,Data Science,2022-07-14,60,Completed,,Career roadmap planning
+S00132,M0039,T0262,Priya Garcia,Daniel Kim,Web Development,2022-12-06,30,Completed,4.9,Project feedback
+S00133,M0002,T0325,Yusuf Wang,Arjun Harris,Product Management,2022-09-30,30,Scheduled,4.0,Project feedback
+S00134,M0080,T0193,Michael Thompson,Kiran Wang,DevOps,2022-05-11,60,Scheduled,4.8,
+S00135,M0036,T0266,Sarah Clark,Hannah Ali,Data Science,2023-02-03,45,Completed,4.6,Covered system design
+S00136,M0125,T0260,Alex Thompson,Emma Anderson,Blockchain,2022-06-09,60,Cancelled,,Project feedback
+S00137,M0106,T0484,Carlos Patel,Kiran Johnson,Product Management,2022-08-31,30,No-show,3.9,Mock interview
+S00138,M0199,T0447,Liam Wilson,Ivan Wang,Machine Learning,2022-01-09,90,Scheduled,,Career roadmap planning
+S00139,M0026,T0045,Lucas Sharma,Lucas Thompson,Cloud Computing,2022-03-26,90,Completed,4.5,Covered system design
+S00140,M0022,T0071,Divya Brown,Isabelle Patel,Cybersecurity,2022-09-13,60,Completed,5.0,Covered system design
+S00141,M0067,T0153,Chloe Osei,Ethan Robinson,Product Management,2023-11-14,90,Completed,4.6,Discussed portfolio review
+S00142,M0070,T0420,Zara Rossi,Chloe Martinez,Cloud Computing,2023-12-19,45,Completed,4.2,Project feedback
+S00143,M0172,T0345,Sarah Silva,Sarah Davis,Machine Learning,2022-06-02,45,Completed,,Discussed portfolio review
+S00144,M0183,T0011,Emma Müller,Kofi Robinson,Machine Learning,2022-10-08,45,Completed,4.2,Discussed portfolio review
+S00145,M0187,T0447,Olivia Martinez,Ivan Wang,Machine Learning,2022-02-22,90,Scheduled,4.4,Covered system design
+S00146,M0142,T0448,Kofi Tremblay,Daniel Tremblay,Web Development,2022-08-16,60,Scheduled,4.0,Project feedback
+S00147,M0090,T0379,Noah Davis,Mei Osei,DevOps,2022-02-22,60,Completed,,Code review session
+S00148,M0095,T0337,Aarav Wilson,Yusuf Walker,Web Development,2022-12-26,90,Completed,3.1,Discussed portfolio review
+S00149,M0161,T0345,Isabelle Brown,Sarah Davis,Data Science,2022-01-01,30,No-show,3.4,Career roadmap planning
+S00150,M0166,T0133,Arjun Kumar,Arjun Müller,Machine Learning,2022-10-14,30,Scheduled,,Career roadmap planning
+S00151,M0143,T0126,Rohan Kumar,Hannah Kim,UI/UX Design,2023-01-08,60,Completed,,Project feedback
+S00152,M0192,T0205,Ethan Anderson,Alex Harris,Cloud Computing,2022-01-14,45,Completed,4.6,Project feedback
+S00153,M0159,T0232,Aisha Young,Kofi Kumar,Product Management,2023-08-27,60,Completed,3.4,Career roadmap planning
+S00154,M0182,T0191,Fatima Robinson,Arjun Silva,Product Management,2022-03-31,30,Completed,4.2,Discussed portfolio review
+S00155,M0032,T0257,Amara Lee,Liam Johnson,Mobile Development,2023-08-24,45,Completed,4.9,Discussed portfolio review
+S00156,M0066,T0466,Noah Rossi,Wei Thompson,Blockchain,2023-07-14,60,Completed,5.0,Covered system design
+S00157,M0121,T0436,Elena Davis,Liam Müller,UI/UX Design,2023-07-01,45,Completed,,Career roadmap planning
+S00158,M0174,T0331,Mei Sharma,Ivan Taylor,Machine Learning,2023-07-18,60,Cancelled,4.8,Career roadmap planning
+S00159,M0172,T0481,Sarah Silva,James Müller,Machine Learning,2023-10-07,30,Scheduled,,Career roadmap planning
+S00160,M0118,T0286,Nadia Lee,Pooja Kim,Cybersecurity,2023-06-21,30,Completed,4.4,Covered system design
+S00161,M0154,T0132,Emma Davis,Arjun Harris,Machine Learning,2022-10-24,30,Cancelled,,Project feedback
+S00162,M0012,T0367,Isabelle Hall,Ivan Thompson,UI/UX Design,2022-07-14,90,Scheduled,4.7,Discussed portfolio review
+S00163,M0131,T0380,Michael Brown,Elena Davis,Cybersecurity,2022-06-19,90,Cancelled,4.6,Career roadmap planning
+S00164,M0023,T0493,Kofi Wilson,Lucas Sharma,Mobile Development,2023-09-14,60,Completed,,Covered system design
+S00165,M0179,T0097,Chloe Sharma,Olivia Smith,Machine Learning,2023-08-09,45,Cancelled,4.8,
+S00166,M0066,T0248,Noah Rossi,Zara Taylor,Blockchain,2023-06-10,90,Cancelled,4.1,Code review session
+S00167,M0011,T0400,Noah Clark,James Martinez,Web Development,2022-08-14,60,No-show,,Discussed portfolio review
+S00168,M0038,T0233,Fatima Rossi,Olivia Young,UI/UX Design,2022-06-25,45,Completed,3.6,Project feedback
+S00169,M0125,T0384,Alex Thompson,Aarav Rossi,Blockchain,2022-06-01,60,Completed,,
+S00170,M0168,T0431,Raj White,Carlos Harris,Blockchain,2022-02-22,45,Completed,3.0,Code review session
+S00171,M0193,T0407,Michael Lee,Sana Silva,Data Science,2023-10-10,60,Completed,,Project feedback
+S00172,M0197,T0003,Nadia Harris,Olivia Patel,DevOps,2023-07-17,60,No-show,,Mock interview
+S00173,M0157,T0198,Liam Smith,Sofia Ali,Cloud Computing,2022-10-29,60,Completed,3.0,Code review session
+S00174,M0185,T0331,Sana Kumar,Ivan Taylor,DevOps,2022-08-13,60,Completed,,Discussed portfolio review
+S00175,M0145,T0129,Amara Wang,Olivia Anderson,UI/UX Design,2023-07-05,30,No-show,3.8,Project feedback
+S00176,M0065,T0344,Alex Walker,Ivan Johnson,Machine Learning,2022-09-21,45,Scheduled,,Code review session
+S00177,M0146,T0014,Kiran Garcia,Hannah Wilson,Machine Learning,2022-07-28,90,Completed,4.5,Career roadmap planning
+S00178,M0102,T0260,Kiran Young,Emma Anderson,Machine Learning,2023-01-13,45,Scheduled,,Covered system design
+S00179,M0057,T0109,Nadia Wilson,Sana Brown,Data Science,2023-04-16,45,Completed,,Career roadmap planning
+S00180,M0157,T0344,Liam Smith,Ivan Johnson,Cloud Computing,2022-07-04,60,Completed,4.8,
+S00181,M0026,T0444,Lucas Sharma,Rohan Silva,Cloud Computing,2023-02-08,45,Completed,,Career roadmap planning
+S00182,M0009,T0258,Kofi Kim,Ivan Clark,Web Development,2022-09-09,90,No-show,3.2,Mock interview
+S00183,M0156,T0363,Ethan Lee,Priya Young,Web Development,2022-05-21,30,Cancelled,,Career roadmap planning
+S00184,M0187,T0004,Olivia Martinez,Mei Smith,Machine Learning,2022-01-22,30,Completed,4.3,Discussed portfolio review
+S00185,M0072,T0448,Carlos Patel,Daniel Tremblay,UI/UX Design,2022-05-16,45,Completed,,Project feedback
+S00186,M0168,T0392,Raj White,Omar Garcia,Blockchain,2023-09-07,30,Completed,3.2,Project feedback
+S00187,M0079,T0099,Kiran Rossi,Ahmed Young,UI/UX Design,2022-12-13,30,Completed,,
+S00188,M0083,T0290,Priya Kim,Priya Brown,Product Management,2023-07-31,90,Completed,4.0,Covered system design
+S00189,M0028,T0129,Daniel Patel,Olivia Anderson,Product Management,2022-02-27,60,No-show,3.0,Discussed portfolio review
+S00190,M0035,T0171,Tyler Ali,Alex Garcia,Cybersecurity,2022-04-16,60,Completed,4.7,Covered system design
+S00191,M0103,T0047,Amara Osei,Alex Kumar,Web Development,2022-01-02,45,Completed,,Career roadmap planning
+S00192,M0199,T0253,Liam Wilson,Aisha Young,Machine Learning,2022-05-31,60,No-show,,Project feedback
+S00193,M0114,T0384,Yusuf Wilson,Aarav Rossi,DevOps,2023-01-29,30,Scheduled,,Discussed portfolio review
+S00194,M0170,T0017,James Martinez,Ivan Sharma,Cybersecurity,2022-08-18,30,Completed,4.2,Discussed portfolio review
+S00195,M0035,T0325,Tyler Ali,Arjun Harris,Cybersecurity,2023-01-05,30,Completed,3.4,Mock interview
+S00196,M0033,T0368,Pooja Silva,Pooja Müller,Blockchain,2022-12-09,45,No-show,4.8,Project feedback
+S00197,M0140,T0233,Yusuf Hall,Olivia Young,Web Development,2022-11-05,60,Completed,3.5,Career roadmap planning
+S00198,M0100,T0478,Zara Osei,Olivia Osei,Web Development,2023-11-09,60,Completed,4.4,Discussed portfolio review
+S00199,M0196,T0330,Sarah Thompson,Noah Tremblay,Mobile Development,2022-01-03,45,No-show,,Covered system design
+S00200,M0112,T0117,Chloe Lee,James Lee,Mobile Development,2023-02-04,90,No-show,5.0,
+S00201,M0119,T0420,Liam Martinez,Chloe Martinez,Data Science,2022-03-10,30,Cancelled,4.5,Covered system design
+S00202,M0183,T0385,Emma Müller,Mei Patel,Machine Learning,2022-04-03,60,Completed,,Career roadmap planning
+S00203,M0130,T0227,Aisha Rossi,Ethan Thompson,UI/UX Design,2022-12-28,60,Scheduled,4.4,Career roadmap planning
+S00204,M0087,T0409,Zara Sharma,Ahmed Johnson,Cloud Computing,2023-09-09,60,Completed,4.3,Covered system design
+S00205,M0017,T0325,Kofi White,Arjun Harris,Mobile Development,2023-01-28,90,Cancelled,4.1,Mock interview
+S00206,M0145,T0322,Amara Wang,Ivan Patel,UI/UX Design,2023-07-04,45,Scheduled,,Project feedback
+S00207,M0155,T0429,Omar Sharma,Raj Robinson,Data Science,2023-03-08,45,No-show,,Code review session
+S00208,M0121,T0191,Elena Davis,Arjun Silva,UI/UX Design,2022-01-03,45,Completed,3.9,Covered system design
+S00209,M0160,T0143,Rohan Clark,Elena Walker,Blockchain,2022-04-23,30,Completed,4.7,
+S00210,M0103,T0144,Amara Osei,Yusuf Ali,Web Development,2022-05-23,60,Scheduled,,
+S00211,M0034,T0211,Nadia Rossi,Kiran Martinez,Mobile Development,2023-07-19,90,Completed,,Covered system design
+S00212,M0186,T0492,Liam Johnson,Hannah Smith,DevOps,2022-02-27,45,Completed,4.4,Career roadmap planning
+S00213,M0039,T0279,Priya Garcia,Sana Davis,Web Development,2022-01-27,90,Completed,,Discussed portfolio review
+S00214,M0078,T0447,Kofi Thompson,Ivan Wang,Mobile Development,2023-11-10,30,Scheduled,4.7,Discussed portfolio review
+S00215,M0166,T0487,Arjun Kumar,Arjun Silva,Machine Learning,2022-05-31,60,Completed,,Discussed portfolio review
+S00216,M0175,T0047,Aisha Tremblay,Alex Kumar,Web Development,2022-01-13,90,Completed,3.9,Covered system design
+S00217,M0077,T0098,Noah Brown,Kofi Silva,Blockchain,2023-06-25,60,Scheduled,3.7,
+S00218,M0132,T0239,Hannah Wang,Isabelle Kim,Mobile Development,2023-10-23,30,Completed,,Discussed portfolio review
+S00219,M0163,T0306,Kofi Rossi,Wei Sharma,Web Development,2023-10-20,30,Cancelled,4.0,Discussed portfolio review
+S00220,M0033,T0347,Pooja Silva,Kofi Young,Blockchain,2023-02-10,90,No-show,3.9,Project feedback
+S00221,M0144,T0485,Raj Thompson,Fatima White,Data Science,2022-09-22,60,No-show,,Covered system design
+S00222,M0102,T0111,Kiran Young,Hannah Tremblay,Machine Learning,2022-10-06,30,Cancelled,4.9,Project feedback
+S00223,M0043,T0195,Chloe Anderson,Yusuf Young,Cybersecurity,2022-08-05,90,Cancelled,,Career roadmap planning
+S00224,M0115,T0450,Elena Wilson,Ethan Taylor,Mobile Development,2022-07-08,30,No-show,3.6,Project feedback
+S00225,M0020,T0227,Arjun Rossi,Ethan Thompson,DevOps,2023-02-19,90,Completed,,Code review session
+S00226,M0004,T0232,Liam Thompson,Kofi Kumar,Cybersecurity,2023-10-25,90,Completed,,Discussed portfolio review
+S00227,M0140,T0186,Yusuf Hall,Lucas Ali,Web Development,2022-03-21,60,Cancelled,3.7,Covered system design
+S00228,M0079,T0489,Kiran Rossi,Michael Kim,UI/UX Design,2022-10-16,45,Cancelled,,Covered system design
+S00229,M0179,T0031,Chloe Sharma,Rohan Kim,Machine Learning,2023-09-04,30,Completed,,Covered system design
+S00230,M0109,T0362,Olivia Ali,Michael Lewis,Web Development,2023-10-16,30,Completed,,Mock interview
+S00231,M0089,T0473,Elena Smith,James Johnson,Product Management,2023-08-02,30,Cancelled,4.0,Discussed portfolio review
+S00232,M0170,T0159,James Martinez,Aisha Lee,Cybersecurity,2022-11-19,30,Completed,,Code review session
+S00233,M0062,T0181,Arjun Harris,Chloe Lee,Blockchain,2022-10-17,90,Cancelled,,
+S00234,M0137,T0152,Michael Young,Aarav Müller,Machine Learning,2023-02-05,60,Completed,3.2,Career roadmap planning
+S00235,M0019,T0112,Alex Smith,Elena Kumar,Product Management,2023-05-31,30,Cancelled,3.3,Mock interview
+S00236,M0146,T0136,Kiran Garcia,Amara Osei,Machine Learning,2023-01-27,90,Cancelled,3.1,Covered system design
+S00237,M0023,T0349,Kofi Wilson,Mei Garcia,Mobile Development,2022-06-05,90,Completed,3.2,Project feedback
+S00238,M0098,T0197,Isabelle Patel,Lucas Lee,Machine Learning,2022-08-26,45,No-show,4.5,Covered system design
+S00239,M0081,T0261,Ivan Wilson,Aisha Hall,Blockchain,2023-05-29,60,Scheduled,3.7,Code review session
+S00240,M0039,T0377,Priya Garcia,Arjun Silva,Web Development,2023-10-01,90,Completed,4.5,Career roadmap planning
+S00241,M0037,T0216,Raj Young,Kofi Robinson,UI/UX Design,2022-09-02,45,Cancelled,4.9,Mock interview
+S00242,M0101,T0028,Mei Davis,Daniel Thompson,UI/UX Design,2023-10-05,90,Completed,3.3,
+S00243,M0103,T0166,Amara Osei,Elena Clark,Web Development,2022-11-13,30,Scheduled,,Code review session
+S00244,M0175,T0092,Aisha Tremblay,Sana Kumar,Web Development,2022-06-23,60,Completed,,Mock interview
+S00245,M0004,T0261,Liam Thompson,Aisha Hall,Cybersecurity,2023-01-08,60,Completed,,Project feedback
+S00246,M0189,T0147,Noah Garcia,Zara Tremblay,Machine Learning,2023-04-17,60,Scheduled,4.5,Career roadmap planning
+S00247,M0036,T0343,Sarah Clark,Kofi Wang,Data Science,2023-10-28,45,Completed,4.0,Code review session
+S00248,M0051,T0063,Olivia Kim,Tyler Robinson,Cybersecurity,2022-10-21,90,Scheduled,4.8,Covered system design
+S00249,M0069,T0395,Michael Harris,Tyler Robinson,Web Development,2023-03-28,60,Cancelled,4.9,Code review session
+S00250,M0158,T0172,Ethan Young,Michael Ali,Product Management,2022-03-27,90,Cancelled,4.8,Project feedback
+S00251,M0060,T0062,Sofia Rossi,Fatima White,Product Management,2022-02-13,30,No-show,4.4,Mock interview
+S00252,M0046,T0232,Nadia Osei,Kofi Kumar,DevOps,2022-01-09,45,Completed,,Covered system design
+S00253,M0140,T0245,Yusuf Hall,Sofia Harris,Web Development,2023-08-07,90,Completed,,
+S00254,M0066,T0094,Noah Rossi,Rohan Young,Blockchain,2023-04-19,30,Completed,4.3,
+S00255,M0158,T0100,Ethan Young,James Wilson,Product Management,2023-04-22,30,Completed,,Discussed portfolio review
+S00256,M0198,T0330,Elena Kim,Noah Tremblay,Mobile Development,2023-02-11,90,Completed,3.1,Code review session
+S00257,M0195,T0489,Fatima Lewis,Michael Kim,Web Development,2023-09-11,90,Completed,4.0,Code review session
+S00258,M0192,T0500,Ethan Anderson,Divya Anderson,Cloud Computing,2023-04-11,30,Cancelled,,Career roadmap planning
+S00259,M0162,T0069,Rohan White,Tyler Martinez,Cloud Computing,2022-05-30,45,Completed,5.0,
+S00260,M0165,T0403,James Ali,Carlos Lewis,Machine Learning,2023-01-25,30,Completed,5.0,Covered system design
+S00261,M0119,T0299,Liam Martinez,Omar Taylor,Data Science,2022-02-25,45,Completed,4.4,Code review session
+S00262,M0040,T0085,James Osei,Arjun Davis,Machine Learning,2022-09-16,45,Completed,,Code review session
+S00263,M0126,T0206,Liam Patel,Yusuf Kumar,Blockchain,2023-02-19,30,Completed,3.9,Career roadmap planning
+S00264,M0177,T0088,Pooja Lee,Wei Anderson,UI/UX Design,2023-06-22,45,No-show,3.4,Discussed portfolio review
+S00265,M0167,T0322,Mei Silva,Ivan Patel,DevOps,2022-04-05,90,Completed,3.6,Covered system design
+S00266,M0040,T0492,James Osei,Hannah Smith,Machine Learning,2022-12-24,90,Scheduled,4.4,Covered system design
+S00267,M0116,T0138,Michael Martinez,Ahmed Lee,Web Development,2023-12-15,90,Completed,4.1,
+S00268,M0055,T0382,Tyler Silva,Omar Davis,Mobile Development,2022-01-11,45,Completed,4.2,Covered system design
+S00269,M0178,T0235,Ahmed Sharma,Noah Brown,Product Management,2022-11-28,60,Completed,,Career roadmap planning
+S00270,M0165,T0068,James Ali,Elena Robinson,Machine Learning,2022-06-01,90,Completed,,Project feedback
+S00271,M0194,T0496,Mei Davis,Emma Young,Data Science,2023-02-21,60,Cancelled,5.0,
+S00272,M0061,T0401,Michael Harris,Sofia Martinez,UI/UX Design,2022-05-09,90,No-show,3.2,Covered system design
+S00273,M0012,T0128,Isabelle Hall,James Kumar,UI/UX Design,2022-07-12,90,No-show,3.3,Career roadmap planning
+S00274,M0165,T0391,James Ali,Tyler Walker,Machine Learning,2022-08-10,60,Completed,4.9,Mock interview
+S00275,M0199,T0283,Liam Wilson,Amara Harris,Machine Learning,2022-01-15,60,Completed,,Code review session
+S00276,M0100,T0349,Zara Osei,Mei Garcia,Web Development,2023-05-30,30,No-show,5.0,Career roadmap planning
+S00277,M0190,T0094,Chloe Sharma,Rohan Young,Web Development,2023-02-25,60,Completed,3.9,
+S00278,M0011,T0472,Noah Clark,Rohan Wang,Web Development,2022-12-10,30,Completed,3.7,Mock interview
+S00279,M0192,T0013,Ethan Anderson,Olivia Müller,Cloud Computing,2023-09-02,45,Cancelled,3.6,Project feedback
+S00280,M0103,T0208,Amara Osei,Isabelle Sharma,Web Development,2023-12-07,90,No-show,,Mock interview
+S00281,M0132,T0403,Hannah Wang,Carlos Lewis,Mobile Development,2022-04-12,30,Completed,,Discussed portfolio review
+S00282,M0167,T0046,Mei Silva,Lucas Müller,DevOps,2023-09-24,90,Completed,4.5,Mock interview
+S00283,M0146,T0217,Kiran Garcia,Fatima Anderson,Machine Learning,2022-04-13,90,Cancelled,3.1,Code review session
+S00284,M0075,T0209,Noah Robinson,Olivia Johnson,Machine Learning,2023-03-07,45,Completed,4.1,Discussed portfolio review
+S00285,M0052,T0281,Lucas Young,Raj Patel,Mobile Development,2022-07-20,90,Completed,4.6,Career roadmap planning
+S00286,M0167,T0303,Mei Silva,Raj Young,DevOps,2023-02-27,90,Completed,4.6,Mock interview
+S00287,M0050,T0371,Pooja Anderson,Michael Patel,Blockchain,2022-10-18,60,No-show,,
+S00288,M0032,T0387,Amara Lee,James Martinez,Mobile Development,2023-03-01,45,Completed,3.8,Discussed portfolio review
+S00289,M0181,T0426,Daniel Tremblay,Divya Clark,Data Science,2022-01-27,45,Completed,4.0,Project feedback
+S00290,M0188,T0044,Arjun Wang,Ahmed Tremblay,Web Development,2023-09-07,60,Completed,,Mock interview
+S00291,M0160,T0391,Rohan Clark,Tyler Walker,Blockchain,2023-03-17,45,Cancelled,3.4,Project feedback
+S00292,M0133,T0344,Aarav Ali,Ivan Johnson,Cybersecurity,2023-02-07,30,Cancelled,4.9,Career roadmap planning
+S00293,M0023,T0191,Kofi Wilson,Arjun Silva,Mobile Development,2022-06-27,90,Completed,3.9,Discussed portfolio review
+S00294,M0021,T0444,Arjun Thompson,Rohan Silva,Cloud Computing,2023-12-29,45,Cancelled,,Mock interview
+S00295,M0015,T0089,Wei Wilson,Aisha Kim,Cybersecurity,2023-02-06,60,Cancelled,,Code review session
+S00296,M0072,T0142,Carlos Patel,Daniel Garcia,UI/UX Design,2022-07-28,30,Completed,,Discussed portfolio review
+S00297,M0088,T0412,Kofi Sharma,Carlos Brown,UI/UX Design,2023-10-06,45,Completed,4.1,Discussed portfolio review
+S00298,M0039,T0212,Priya Garcia,Sana Lewis,Web Development,2023-08-09,90,Completed,3.3,Career roadmap planning
+S00299,M0124,T0100,Elena Clark,James Wilson,Machine Learning,2023-10-12,60,Completed,,Covered system design
+S00300,M0105,T0325,Ethan Wilson,Arjun Harris,DevOps,2022-11-01,45,Cancelled,4.5,
+S00301,M0060,T0365,Sofia Rossi,Zara Garcia,Product Management,2023-01-23,60,No-show,,Discussed portfolio review
+S00302,M0120,T0181,Raj Smith,Chloe Lee,UI/UX Design,2022-05-28,30,No-show,4.7,Discussed portfolio review
+S00303,M0117,T0483,Zara Davis,Yusuf Thompson,Blockchain,2023-04-16,30,Completed,,Code review session
+S00304,M0037,T0453,Raj Young,Hannah Harris,UI/UX Design,2022-07-04,30,Completed,3.7,
+S00305,M0159,T0453,Aisha Young,Hannah Harris,Product Management,2022-08-01,90,Completed,3.0,Discussed portfolio review
+S00306,M0071,T0067,Ivan Kumar,Zara Johnson,DevOps,2023-05-14,30,Completed,3.8,Code review session
+S00307,M0003,T0371,Aarav Tremblay,Michael Patel,Web Development,2023-10-11,90,Completed,,Discussed portfolio review
+S00308,M0028,T0481,Daniel Patel,James Müller,Product Management,2022-07-02,30,Completed,5.0,Career roadmap planning
+S00309,M0146,T0474,Kiran Garcia,Kiran Thompson,Machine Learning,2023-09-21,30,Completed,3.5,Discussed portfolio review
+S00310,M0047,T0135,Ivan Clark,Daniel Smith,Mobile Development,2022-07-17,30,Cancelled,,Mock interview
+S00311,M0110,T0336,Isabelle Patel,Sarah White,Mobile Development,2022-06-06,45,Completed,,Covered system design
+S00312,M0086,T0401,Ethan Thompson,Sofia Martinez,Product Management,2022-01-31,60,Completed,,Project feedback
+S00313,M0101,T0153,Mei Davis,Ethan Robinson,UI/UX Design,2023-12-10,45,Completed,,Covered system design
+S00314,M0008,T0101,Kofi Anderson,Sofia Johnson,Machine Learning,2022-04-05,60,No-show,3.6,Project feedback
+S00315,M0154,T0075,Emma Davis,Isabelle Silva,Machine Learning,2023-05-23,90,Cancelled,4.8,Code review session
+S00316,M0182,T0460,Fatima Robinson,Rohan Clark,Product Management,2022-06-27,45,No-show,4.4,Career roadmap planning
+S00317,M0072,T0255,Carlos Patel,Fatima Taylor,UI/UX Design,2022-04-16,60,Completed,4.9,Career roadmap planning
+S00318,M0066,T0216,Noah Rossi,Kofi Robinson,Blockchain,2023-03-20,90,Scheduled,3.5,Code review session
+S00319,M0055,T0281,Tyler Silva,Raj Patel,Mobile Development,2023-09-30,30,Cancelled,3.4,Code review session
+S00320,M0050,T0379,Pooja Anderson,Mei Osei,Blockchain,2023-01-18,30,Scheduled,,Discussed portfolio review
+S00321,M0159,T0302,Aisha Young,Michael Tremblay,Product Management,2023-06-08,60,Cancelled,4.2,Project feedback
+S00322,M0096,T0339,Pooja White,Aarav Ali,UI/UX Design,2023-06-28,60,Scheduled,,Covered system design
+S00323,M0015,T0202,Wei Wilson,Carlos Davis,Cybersecurity,2022-11-27,90,Completed,3.1,Project feedback
+S00324,M0010,T0236,Sana Clark,Mei Robinson,DevOps,2023-01-16,60,Completed,3.2,Code review session
+S00325,M0042,T0381,Kofi Kim,Elena Anderson,Mobile Development,2023-12-06,30,No-show,3.9,
+S00326,M0021,T0490,Arjun Thompson,Alex Tremblay,Cloud Computing,2022-11-26,45,Cancelled,,Code review session
+S00327,M0177,T0107,Pooja Lee,Sarah Brown,UI/UX Design,2023-09-09,45,Cancelled,,Mock interview
+S00328,M0038,T0144,Fatima Rossi,Yusuf Ali,UI/UX Design,2022-10-12,30,Cancelled,3.8,
+S00329,M0194,T0311,Mei Davis,Kiran Wilson,Data Science,2023-03-22,60,Completed,,Discussed portfolio review
+S00330,M0050,T0144,Pooja Anderson,Yusuf Ali,Blockchain,2023-05-21,90,Completed,3.8,Discussed portfolio review
+S00331,M0123,T0304,Divya Rossi,Sofia Lewis,Web Development,2023-04-09,45,Cancelled,3.8,Mock interview
+S00332,M0179,T0287,Chloe Sharma,Nadia Sharma,Machine Learning,2022-01-22,60,Completed,4.7,Discussed portfolio review
+S00333,M0144,T0244,Raj Thompson,Aisha Brown,Data Science,2023-04-18,60,Completed,3.8,Mock interview
+S00334,M0156,T0151,Ethan Lee,Fatima Kim,Web Development,2023-06-25,30,Completed,3.1,Discussed portfolio review
+S00335,M0133,T0346,Aarav Ali,Aisha Hall,Cybersecurity,2023-03-02,60,Completed,3.7,Discussed portfolio review
+S00336,M0140,T0262,Yusuf Hall,Daniel Kim,Web Development,2023-07-24,60,Scheduled,3.8,Project feedback
+S00337,M0044,T0352,Yusuf Sharma,Mei Robinson,Product Management,2023-04-11,90,No-show,3.2,Code review session
+S00338,M0186,T0500,Liam Johnson,Divya Anderson,DevOps,2023-09-25,30,Completed,,
+S00339,M0041,T0478,Chloe Lewis,Olivia Osei,Cloud Computing,2022-01-11,45,Completed,4.7,Project feedback
+S00340,M0179,T0348,Chloe Sharma,Kofi Ali,Machine Learning,2023-03-23,45,Completed,,Project feedback
+S00341,M0055,T0149,Tyler Silva,Olivia Kim,Mobile Development,2023-01-13,30,No-show,3.5,
+S00342,M0147,T0248,Kofi Wilson,Zara Taylor,Product Management,2022-02-14,30,Completed,3.2,Code review session
+S00343,M0092,T0184,Ahmed Davis,Lucas Harris,Product Management,2023-12-06,90,Completed,4.8,Mock interview
+S00344,M0104,T0344,Chloe Garcia,Ivan Johnson,Data Science,2023-04-17,30,Completed,3.3,Mock interview
+S00345,M0143,T0400,Rohan Kumar,James Martinez,UI/UX Design,2023-02-28,90,No-show,,Mock interview
+S00346,M0114,T0046,Yusuf Wilson,Lucas Müller,DevOps,2022-09-04,90,No-show,3.6,
+S00347,M0175,T0070,Aisha Tremblay,Chloe Thompson,Web Development,2023-05-10,45,Completed,,Code review session
+S00348,M0180,T0262,Chloe Johnson,Daniel Kim,Blockchain,2023-12-30,30,Completed,4.7,Project feedback
+S00349,M0024,T0179,Liam Hall,Sana Wang,Cloud Computing,2023-10-25,45,No-show,,Career roadmap planning
+S00350,M0074,T0025,Ahmed Patel,Chloe Martinez,DevOps,2022-03-03,45,Completed,3.9,Career roadmap planning
+S00351,M0002,T0069,Yusuf Wang,Tyler Martinez,Product Management,2022-07-12,90,Completed,4.6,
+S00352,M0009,T0364,Kofi Kim,Daniel Lee,Web Development,2023-06-25,60,Completed,4.3,
+S00353,M0161,T0100,Isabelle Brown,James Wilson,Data Science,2023-06-01,30,Completed,,Code review session
+S00354,M0199,T0317,Liam Wilson,Aarav Wilson,Machine Learning,2023-01-30,90,Cancelled,4.6,Covered system design
+S00355,M0091,T0362,Omar Rossi,Michael Lewis,Web Development,2022-03-12,60,Scheduled,,Code review session
+S00356,M0173,T0042,James Young,Wei Robinson,DevOps,2023-08-15,30,Completed,3.2,Discussed portfolio review
+S00357,M0070,T0145,Zara Rossi,Sana Harris,Cloud Computing,2022-09-04,30,Scheduled,,Discussed portfolio review
+S00358,M0018,T0062,Divya Young,Fatima White,Product Management,2023-05-03,90,Completed,,Mock interview
+S00359,M0136,T0466,Daniel White,Wei Thompson,Machine Learning,2022-03-28,60,Scheduled,,Career roadmap planning
+S00360,M0174,T0232,Mei Sharma,Kofi Kumar,Machine Learning,2023-05-30,90,Cancelled,3.9,Code review session
+S00361,M0138,T0141,Emma Thompson,Raj Silva,DevOps,2022-04-11,30,No-show,4.9,Covered system design
+S00362,M0113,T0106,Isabelle Wang,Amara Lewis,Cloud Computing,2022-10-29,45,Scheduled,,Code review session
+S00363,M0028,T0204,Daniel Patel,Omar White,Product Management,2023-06-27,90,Cancelled,4.4,Project feedback
+S00364,M0060,T0412,Sofia Rossi,Carlos Brown,Product Management,2022-09-12,30,Completed,,Discussed portfolio review
+S00365,M0148,T0202,Lucas Osei,Carlos Davis,Mobile Development,2023-08-13,60,Completed,,Discussed portfolio review
+S00366,M0020,T0491,Arjun Rossi,James Müller,DevOps,2022-10-10,45,Cancelled,3.8,Career roadmap planning
+S00367,M0070,T0446,Zara Rossi,Alex Sharma,Cloud Computing,2022-04-14,45,No-show,4.4,Career roadmap planning
+S00368,M0173,T0111,James Young,Hannah Tremblay,DevOps,2022-07-30,45,Completed,3.6,Mock interview
+S00369,M0106,T0413,Carlos Patel,Daniel Taylor,Product Management,2022-10-22,30,Completed,,Project feedback
+S00370,M0098,T0423,Isabelle Patel,Michael Kumar,Machine Learning,2023-09-30,90,No-show,4.8,Covered system design
+S00371,M0012,T0479,Isabelle Hall,Kofi Rossi,UI/UX Design,2022-06-24,60,No-show,,Covered system design
+S00372,M0070,T0297,Zara Rossi,Ethan Martinez,Cloud Computing,2022-12-07,90,Completed,4.3,Career roadmap planning
+S00373,M0094,T0186,Liam Garcia,Lucas Ali,Blockchain,2022-12-09,30,Completed,4.8,Covered system design
+S00374,M0070,T0129,Zara Rossi,Olivia Anderson,Cloud Computing,2023-11-27,30,Cancelled,3.9,Discussed portfolio review
+S00375,M0150,T0424,Fatima Walker,Sofia Osei,Cybersecurity,2023-05-16,45,Scheduled,,
+S00376,M0088,T0291,Kofi Sharma,Elena Martinez,UI/UX Design,2022-01-18,60,Completed,3.3,Covered system design
+S00377,M0185,T0430,Sana Kumar,Fatima Taylor,DevOps,2022-04-07,30,Completed,3.7,Career roadmap planning
+S00378,M0148,T0299,Lucas Osei,Omar Taylor,Mobile Development,2022-12-26,60,No-show,3.7,Discussed portfolio review
+S00379,M0012,T0489,Isabelle Hall,Michael Kim,UI/UX Design,2022-12-28,60,No-show,4.0,Project feedback
+S00380,M0047,T0339,Ivan Clark,Aarav Ali,Mobile Development,2023-09-03,90,Completed,,Mock interview
+S00381,M0189,T0244,Noah Garcia,Aisha Brown,Machine Learning,2023-10-18,30,Completed,4.7,Project feedback
+S00382,M0029,T0159,Tyler Silva,Aisha Lee,Blockchain,2022-05-26,60,Scheduled,,Mock interview
+S00383,M0165,T0469,James Ali,Michael Walker,Machine Learning,2023-12-14,90,Completed,,Discussed portfolio review
+S00384,M0189,T0070,Noah Garcia,Chloe Thompson,Machine Learning,2022-07-18,90,No-show,,Code review session
+S00385,M0186,T0368,Liam Johnson,Pooja Müller,DevOps,2023-10-04,90,Cancelled,,Project feedback
+S00386,M0053,T0043,Isabelle Johnson,Divya Kumar,Cloud Computing,2022-12-24,60,Scheduled,4.9,Code review session
+S00387,M0037,T0073,Raj Young,Arjun Martinez,UI/UX Design,2022-11-13,45,Completed,4.4,
+S00388,M0043,T0293,Chloe Anderson,Elena Tremblay,Cybersecurity,2023-09-20,30,Scheduled,4.1,
+S00389,M0140,T0293,Yusuf Hall,Elena Tremblay,Web Development,2022-12-22,60,Completed,4.0,Project feedback
+S00390,M0149,T0118,Isabelle Walker,Priya Hall,DevOps,2022-05-31,90,No-show,,Code review session
+S00391,M0180,T0131,Chloe Johnson,Elena Garcia,Blockchain,2023-10-01,45,Completed,3.1,Code review session
+S00392,M0034,T0469,Nadia Rossi,Michael Walker,Mobile Development,2022-01-16,90,Completed,,
+S00393,M0094,T0195,Liam Garcia,Yusuf Young,Blockchain,2023-08-31,30,Completed,3.0,Code review session
+S00394,M0028,T0140,Daniel Patel,Ethan Lewis,Product Management,2023-11-08,30,Completed,,Code review session
+S00395,M0006,T0128,Liam Lewis,James Kumar,Data Science,2022-10-18,45,Completed,3.3,Project feedback
+S00396,M0163,T0192,Kofi Rossi,Daniel Wilson,Web Development,2022-07-21,90,Cancelled,3.6,Discussed portfolio review
+S00397,M0199,T0447,Liam Wilson,Ivan Wang,Machine Learning,2023-04-30,60,Completed,4.3,Career roadmap planning
+S00398,M0189,T0295,Noah Garcia,Ahmed Rossi,Machine Learning,2023-02-13,30,Completed,4.2,Covered system design
+S00399,M0093,T0234,Ivan Wilson,Hannah Garcia,UI/UX Design,2023-08-01,90,No-show,4.6,Covered system design
+S00400,M0178,T0206,Ahmed Sharma,Yusuf Kumar,Product Management,2023-12-01,45,Completed,,Mock interview
+S00401,M0156,T0264,Ethan Lee,Isabelle White,Web Development,2022-07-24,60,Completed,,Mock interview
+S00402,M0144,T0317,Raj Thompson,Aarav Wilson,Data Science,2023-10-06,90,Cancelled,,
+S00403,M0085,T0427,Olivia Müller,Lucas Young,Machine Learning,2023-03-24,30,Completed,4.4,Mock interview
+S00404,M0172,T0392,Sarah Silva,Omar Garcia,Machine Learning,2023-12-03,60,Scheduled,3.9,Career roadmap planning
+S00405,M0087,T0423,Zara Sharma,Michael Kumar,Cloud Computing,2023-04-18,30,Cancelled,,
+S00406,M0131,T0233,Michael Brown,Olivia Young,Cybersecurity,2023-03-08,30,Completed,3.6,Covered system design
+S00407,M0109,T0347,Olivia Ali,Kofi Young,Web Development,2023-08-18,60,Completed,4.8,Code review session
+S00408,M0174,T0321,Mei Sharma,Carlos Smith,Machine Learning,2022-02-24,90,Completed,3.0,
+S00409,M0055,T0153,Tyler Silva,Ethan Robinson,Mobile Development,2023-06-15,90,Completed,,Code review session
+S00410,M0135,T0003,Liam Sharma,Olivia Patel,Machine Learning,2023-10-28,30,Completed,4.6,Mock interview
+S00411,M0103,T0412,Amara Osei,Carlos Brown,Web Development,2023-05-09,60,Completed,,Mock interview
+S00412,M0184,T0457,Noah Martinez,Alex Hall,UI/UX Design,2023-11-22,30,No-show,,Covered system design
+S00413,M0085,T0245,Olivia Müller,Sofia Harris,Machine Learning,2023-07-30,90,Completed,,Project feedback
+S00414,M0064,T0431,Priya Patel,Carlos Harris,Machine Learning,2023-10-18,45,Completed,4.4,Discussed portfolio review
+S00415,M0168,T0037,Raj White,Aarav Taylor,Blockchain,2023-05-12,45,Completed,,Covered system design
+S00416,M0174,T0323,Mei Sharma,Ivan Hall,Machine Learning,2023-09-11,30,Cancelled,,Covered system design
+S00417,M0017,T0191,Kofi White,Arjun Silva,Mobile Development,2022-04-17,90,Completed,3.9,Discussed portfolio review
+S00418,M0135,T0449,Liam Sharma,Kofi Davis,Machine Learning,2022-05-05,60,Scheduled,3.4,Covered system design
+S00419,M0184,T0251,Noah Martinez,Daniel Patel,UI/UX Design,2023-07-14,60,Cancelled,4.7,Mock interview
+S00420,M0171,T0075,Isabelle Tremblay,Isabelle Silva,Product Management,2022-05-07,90,Completed,3.4,
+S00421,M0165,T0221,James Ali,Riya Kumar,Machine Learning,2023-11-05,45,Completed,4.4,Covered system design
+S00422,M0195,T0480,Fatima Lewis,Kiran Thompson,Web Development,2023-05-03,90,Completed,,Discussed portfolio review
+S00423,M0068,T0056,Lucas Martinez,Kofi Brown,Product Management,2023-08-26,90,Completed,3.8,Project feedback
+S00424,M0010,T0014,Sana Clark,Hannah Wilson,DevOps,2022-04-20,90,Scheduled,3.3,Code review session
+S00425,M0161,T0011,Isabelle Brown,Kofi Robinson,Data Science,2023-04-14,30,Cancelled,4.2,Discussed portfolio review
+S00426,M0051,T0118,Olivia Kim,Priya Hall,Cybersecurity,2023-10-23,90,Completed,3.7,Covered system design
+S00427,M0163,T0442,Kofi Rossi,Priya Brown,Web Development,2023-04-25,90,Completed,,Covered system design
+S00428,M0128,T0049,Emma Taylor,Priya Martinez,Cloud Computing,2023-01-02,45,Completed,4.1,Mock interview
+S00429,M0037,T0239,Raj Young,Isabelle Kim,UI/UX Design,2022-03-06,45,No-show,,Project feedback
+S00430,M0103,T0174,Amara Osei,Daniel Patel,Web Development,2023-07-31,60,Scheduled,4.6,Code review session
+S00431,M0130,T0101,Aisha Rossi,Sofia Johnson,UI/UX Design,2023-11-06,60,Scheduled,,
+S00432,M0140,T0060,Yusuf Hall,Divya Kim,Web Development,2023-10-23,90,Scheduled,4.2,Covered system design
+S00433,M0095,T0335,Aarav Wilson,Rohan Rossi,Web Development,2023-08-13,60,Completed,4.2,Mock interview
+S00434,M0183,T0162,Emma Müller,Emma Müller,Machine Learning,2022-12-23,90,Completed,,
+S00435,M0161,T0498,Isabelle Brown,Kofi Harris,Data Science,2022-06-12,45,Completed,4.0,Project feedback
+S00436,M0169,T0483,Isabelle Anderson,Yusuf Thompson,UI/UX Design,2023-05-03,60,Completed,4.6,Project feedback
+S00437,M0034,T0065,Nadia Rossi,Arjun Thompson,Mobile Development,2022-08-31,30,Completed,3.8,Career roadmap planning
+S00438,M0044,T0136,Yusuf Sharma,Amara Osei,Product Management,2022-03-07,30,Cancelled,,Discussed portfolio review
+S00439,M0171,T0092,Isabelle Tremblay,Sana Kumar,Product Management,2022-03-16,90,Completed,4.7,Covered system design
+S00440,M0032,T0272,Amara Lee,Carlos Sharma,Mobile Development,2022-11-25,30,No-show,3.3,Project feedback
+S00441,M0070,T0139,Zara Rossi,Elena Anderson,Cloud Computing,2023-08-11,45,Completed,,Career roadmap planning
+S00442,M0144,T0086,Raj Thompson,Sofia Robinson,Data Science,2023-11-27,60,Completed,,Covered system design
+S00443,M0050,T0154,Pooja Anderson,Isabelle Lee,Blockchain,2023-03-21,45,Completed,4.3,Project feedback
+S00444,M0128,T0167,Emma Taylor,Ahmed Martinez,Cloud Computing,2022-04-09,45,Completed,4.8,Code review session
+S00445,M0003,T0068,Aarav Tremblay,Elena Robinson,Web Development,2023-02-22,30,Completed,,Project feedback
+S00446,M0184,T0149,Noah Martinez,Olivia Kim,UI/UX Design,2023-10-20,90,Completed,4.1,Career roadmap planning
+S00447,M0028,T0388,Daniel Patel,Sarah Smith,Product Management,2023-05-28,60,Completed,4.1,Covered system design
+S00448,M0191,T0399,Ahmed Ali,Isabelle Lewis,Web Development,2022-03-10,90,Scheduled,4.7,Mock interview
+S00449,M0147,T0285,Kofi Wilson,Liam White,Product Management,2022-03-22,45,Cancelled,,Discussed portfolio review
+S00450,M0019,T0028,Alex Smith,Daniel Thompson,Product Management,2023-05-26,45,Completed,3.7,Covered system design
+S00451,M0062,T0039,Arjun Harris,Nadia Hall,Blockchain,2022-10-24,60,Scheduled,3.1,
+S00452,M0061,T0319,Michael Harris,Tyler Rossi,UI/UX Design,2022-06-11,60,Completed,3.5,Mock interview
+S00453,M0192,T0306,Ethan Anderson,Wei Sharma,Cloud Computing,2023-09-18,60,Scheduled,4.1,Discussed portfolio review
+S00454,M0103,T0451,Amara Osei,Noah Silva,Web Development,2023-08-20,90,Completed,3.1,Career roadmap planning
+S00455,M0065,T0058,Alex Walker,James Smith,Machine Learning,2022-09-25,45,Completed,3.1,Covered system design
+S00456,M0034,T0290,Nadia Rossi,Priya Brown,Mobile Development,2023-07-15,60,No-show,3.1,Career roadmap planning
+S00457,M0184,T0297,Noah Martinez,Ethan Martinez,UI/UX Design,2022-03-16,30,Completed,4.9,Mock interview
+S00458,M0030,T0282,Kofi Lewis,Ivan Taylor,Cloud Computing,2023-09-20,30,Cancelled,3.3,Project feedback
+S00459,M0005,T0188,Nadia White,Wei Wilson,DevOps,2022-02-12,30,Completed,3.5,Code review session
+S00460,M0076,T0436,Aisha Johnson,Liam Müller,Blockchain,2023-03-18,90,Completed,4.8,Covered system design
+S00461,M0153,T0427,Lucas Kumar,Lucas Young,Cybersecurity,2022-01-22,30,Completed,4.6,Mock interview
+S00462,M0192,T0127,Ethan Anderson,Isabelle Lewis,Cloud Computing,2023-09-15,90,No-show,3.0,Career roadmap planning
+S00463,M0070,T0468,Zara Rossi,Mei Garcia,Cloud Computing,2022-02-23,90,Scheduled,3.9,Career roadmap planning
+S00464,M0172,T0466,Sarah Silva,Wei Thompson,Machine Learning,2023-07-17,45,Completed,4.8,Code review session
+S00465,M0175,T0235,Aisha Tremblay,Noah Brown,Web Development,2022-12-27,45,Completed,3.1,Covered system design
+S00466,M0143,T0438,Rohan Kumar,Ethan Harris,UI/UX Design,2022-04-05,30,Completed,4.5,
+S00467,M0103,T0361,Amara Osei,James Garcia,Web Development,2023-07-04,30,Completed,3.5,Discussed portfolio review
+S00468,M0197,T0430,Nadia Harris,Fatima Taylor,DevOps,2022-03-20,30,Completed,3.6,Code review session
+S00469,M0107,T0261,Liam Lewis,Aisha Hall,Cloud Computing,2022-12-25,45,Completed,,Career roadmap planning
+S00470,M0181,T0065,Daniel Tremblay,Arjun Thompson,Data Science,2023-05-06,30,No-show,,Code review session
+S00471,M0010,T0347,Sana Clark,Kofi Young,DevOps,2023-07-11,45,Scheduled,4.6,
+S00472,M0090,T0228,Noah Davis,Olivia Silva,DevOps,2022-08-14,90,No-show,3.7,Mock interview
+S00473,M0057,T0140,Nadia Wilson,Ethan Lewis,Data Science,2022-10-27,45,Cancelled,3.6,Mock interview
+S00474,M0132,T0490,Hannah Wang,Alex Tremblay,Mobile Development,2023-05-31,30,Completed,3.8,Mock interview
+S00475,M0053,T0449,Isabelle Johnson,Kofi Davis,Cloud Computing,2023-05-13,60,Completed,,Covered system design
+S00476,M0012,T0264,Isabelle Hall,Isabelle White,UI/UX Design,2023-06-18,45,Completed,3.4,Code review session
+S00477,M0004,T0414,Liam Thompson,Carlos White,Cybersecurity,2022-05-26,30,Completed,4.3,Career roadmap planning
+S00478,M0048,T0455,Yusuf Osei,Aisha Garcia,Data Science,2022-04-27,30,Scheduled,3.5,Mock interview
+S00479,M0030,T0030,Kofi Lewis,James Martinez,Cloud Computing,2023-01-29,60,Completed,,
+S00480,M0047,T0078,Ivan Clark,Yusuf Davis,Mobile Development,2023-09-17,90,Scheduled,,Career roadmap planning
+S00481,M0005,T0207,Nadia White,Emma White,DevOps,2023-01-29,90,Completed,,Career roadmap planning
+S00482,M0003,T0070,Aarav Tremblay,Chloe Thompson,Web Development,2022-07-08,90,Cancelled,,Code review session
+S00483,M0053,T0378,Isabelle Johnson,Noah Wilson,Cloud Computing,2022-02-02,60,Completed,4.5,Code review session
+S00484,M0078,T0075,Kofi Thompson,Isabelle Silva,Mobile Development,2022-09-26,45,Completed,4.7,Career roadmap planning
+S00485,M0025,T0061,Riya Lewis,Aarav Martinez,Data Science,2023-03-14,30,Completed,4.9,Project feedback
+S00486,M0094,T0291,Liam Garcia,Elena Martinez,Blockchain,2022-10-22,90,Scheduled,4.1,Mock interview
+S00487,M0155,T0122,Omar Sharma,Kofi Davis,Data Science,2022-09-24,45,Scheduled,5.0,Covered system design
+S00488,M0102,T0324,Kiran Young,Divya Clark,Machine Learning,2022-05-16,30,Completed,4.9,Discussed portfolio review
+S00489,M0085,T0376,Olivia Müller,Mei Tremblay,Machine Learning,2022-09-13,60,Completed,3.1,Code review session
+S00490,M0194,T0485,Mei Davis,Fatima White,Data Science,2023-01-06,60,No-show,,Project feedback
+S00491,M0004,T0376,Liam Thompson,Mei Tremblay,Cybersecurity,2023-09-15,30,Completed,4.3,
+S00492,M0162,T0427,Rohan White,Lucas Young,Cloud Computing,2022-09-28,45,Scheduled,3.9,Career roadmap planning
+S00493,M0092,T0437,Ahmed Davis,Omar Kim,Product Management,2022-02-07,60,Scheduled,4.1,Career roadmap planning
+S00494,M0017,T0399,Kofi White,Isabelle Lewis,Mobile Development,2022-03-01,30,Completed,4.1,Discussed portfolio review
+S00495,M0121,T0399,Elena Davis,Isabelle Lewis,UI/UX Design,2023-03-28,45,Completed,3.6,
+S00496,M0095,T0427,Aarav Wilson,Lucas Young,Web Development,2023-05-22,45,Completed,3.3,Mock interview
+S00497,M0050,T0036,Pooja Anderson,Ethan Rossi,Blockchain,2023-11-03,30,Completed,,Discussed portfolio review
+S00498,M0189,T0388,Noah Garcia,Sarah Smith,Machine Learning,2022-07-08,90,Cancelled,4.1,Covered system design
+S00499,M0057,T0336,Nadia Wilson,Sarah White,Data Science,2022-03-04,60,Completed,,
+S00500,M0119,T0316,Liam Martinez,Divya Wang,Data Science,2022-12-28,30,Cancelled,,Discussed portfolio review
+S00501,M0069,T0019,Michael Harris,Emma Sharma,Web Development,2022-03-21,90,Completed,3.5,Code review session
+S00502,M0184,T0459,Noah Martinez,Emma Martinez,UI/UX Design,2023-08-08,60,No-show,4.3,Code review session
+S00503,M0069,T0162,Michael Harris,Emma Müller,Web Development,2022-05-27,30,Completed,3.7,Career roadmap planning
+S00504,M0068,T0108,Lucas Martinez,Noah Hall,Product Management,2023-10-30,60,Scheduled,3.6,Discussed portfolio review
+S00505,M0081,T0276,Ivan Wilson,Rohan Clark,Blockchain,2022-06-14,60,Completed,,Covered system design
+S00506,M0190,T0132,Chloe Sharma,Arjun Harris,Web Development,2023-08-29,30,Completed,4.6,Mock interview
+S00507,M0159,T0308,Aisha Young,Ahmed Osei,Product Management,2023-06-05,60,Completed,4.2,Project feedback
+S00508,M0097,T0253,Wei Garcia,Aisha Young,DevOps,2022-06-03,90,No-show,,Discussed portfolio review
+S00509,M0177,T0331,Pooja Lee,Ivan Taylor,UI/UX Design,2022-08-18,90,Cancelled,4.7,Mock interview
+S00510,M0054,T0098,Chloe Taylor,Kofi Silva,Web Development,2022-02-22,90,No-show,3.9,Code review session
+S00511,M0013,T0464,Lucas Smith,Rohan Sharma,Web Development,2022-07-19,60,Completed,4.6,Code review session
+S00512,M0036,T0160,Sarah Clark,Sofia Patel,Data Science,2022-08-25,90,Completed,3.2,Covered system design
+S00513,M0174,T0079,Mei Sharma,Wei Johnson,Machine Learning,2023-04-01,90,Completed,,Mock interview
+S00514,M0102,T0030,Kiran Young,James Martinez,Machine Learning,2023-06-02,30,Completed,4.2,Career roadmap planning
+S00515,M0118,T0454,Nadia Lee,Yusuf Johnson,Cybersecurity,2023-03-05,45,Cancelled,5.0,Mock interview
+S00516,M0055,T0376,Tyler Silva,Mei Tremblay,Mobile Development,2022-09-08,90,No-show,3.3,Code review session
+S00517,M0134,T0215,Michael Osei,Alex Thompson,Cybersecurity,2022-10-21,60,Completed,,Career roadmap planning
+S00518,M0182,T0452,Fatima Robinson,Aarav Rossi,Product Management,2023-03-08,45,Cancelled,4.8,Covered system design
+S00519,M0028,T0218,Daniel Patel,Daniel Davis,Product Management,2022-07-04,90,Completed,,Career roadmap planning
+S00520,M0111,T0341,Liam Lee,Chloe Davis,Machine Learning,2022-09-27,90,No-show,,
+S00521,M0059,T0195,Yusuf Lee,Yusuf Young,Cybersecurity,2022-02-04,90,Completed,5.0,Covered system design
+S00522,M0032,T0438,Amara Lee,Ethan Harris,Mobile Development,2023-06-12,90,Scheduled,3.8,Mock interview
+S00523,M0065,T0415,Alex Walker,Zara Johnson,Machine Learning,2022-09-05,60,Completed,4.6,Code review session
+S00524,M0175,T0432,Aisha Tremblay,Amara Thompson,Web Development,2023-08-29,30,No-show,,Project feedback
+S00525,M0049,T0154,Zara Robinson,Isabelle Lee,Cloud Computing,2022-12-30,90,Scheduled,4.5,Career roadmap planning
+S00526,M0173,T0110,James Young,Divya Sharma,DevOps,2022-10-24,90,No-show,,Covered system design
+S00527,M0180,T0371,Chloe Johnson,Michael Patel,Blockchain,2023-08-27,30,Completed,4.2,Code review session
+S00528,M0196,T0404,Sarah Thompson,Noah Smith,Mobile Development,2023-11-22,90,Scheduled,3.4,Project feedback
+S00529,M0116,T0164,Michael Martinez,Yusuf Davis,Web Development,2023-08-26,60,Completed,,Career roadmap planning
+S00530,M0094,T0279,Liam Garcia,Sana Davis,Blockchain,2022-12-16,30,Cancelled,4.1,Mock interview
+S00531,M0103,T0043,Amara Osei,Divya Kumar,Web Development,2023-03-13,60,Completed,4.5,Covered system design
+S00532,M0085,T0016,Olivia Müller,Sana Robinson,Machine Learning,2022-02-12,45,Scheduled,4.2,Mock interview
+S00533,M0068,T0269,Lucas Martinez,Priya Harris,Product Management,2022-11-18,30,Completed,,Discussed portfolio review
+S00534,M0012,T0350,Isabelle Hall,Liam Wang,UI/UX Design,2022-10-22,60,Scheduled,4.8,Code review session
+S00535,M0059,T0296,Yusuf Lee,Olivia Kumar,Cybersecurity,2022-09-23,30,Completed,3.3,Covered system design
+S00536,M0135,T0330,Liam Sharma,Noah Tremblay,Machine Learning,2023-07-20,45,Completed,3.1,Mock interview
+S00537,M0199,T0083,Liam Wilson,Sarah Robinson,Machine Learning,2023-07-05,45,Completed,4.6,Code review session
+S00538,M0044,T0371,Yusuf Sharma,Michael Patel,Product Management,2022-07-28,60,Cancelled,3.9,Covered system design
+S00539,M0107,T0119,Liam Lewis,Pooja Lee,Cloud Computing,2023-04-10,60,Completed,4.8,Discussed portfolio review
+S00540,M0176,T0130,Alex Kim,Isabelle Sharma,DevOps,2023-04-01,90,Scheduled,,
+S00541,M0073,T0293,Tyler Martinez,Elena Tremblay,Product Management,2022-05-21,60,No-show,4.9,
+S00542,M0135,T0009,Liam Sharma,Zara Sharma,Machine Learning,2022-03-22,45,No-show,,Covered system design
+S00543,M0081,T0446,Ivan Wilson,Alex Sharma,Blockchain,2023-06-04,60,Completed,4.5,Project feedback
+S00544,M0197,T0409,Nadia Harris,Ahmed Johnson,DevOps,2022-03-17,60,Completed,4.9,
+S00545,M0018,T0280,Divya Young,Omar Kim,Product Management,2023-06-18,60,Completed,4.3,Project feedback
+S00546,M0187,T0185,Olivia Martinez,Divya White,Machine Learning,2022-02-06,30,Completed,,Career roadmap planning
+S00547,M0005,T0172,Nadia White,Michael Ali,DevOps,2022-08-14,45,Completed,4.0,Covered system design
+S00548,M0198,T0337,Elena Kim,Yusuf Walker,Mobile Development,2023-05-24,60,Completed,,Discussed portfolio review
+S00549,M0050,T0005,Pooja Anderson,Lucas Smith,Blockchain,2023-06-13,45,Completed,4.0,Mock interview
+S00550,M0028,T0474,Daniel Patel,Kiran Thompson,Product Management,2022-08-02,45,Completed,3.5,Career roadmap planning
+S00551,M0054,T0071,Chloe Taylor,Isabelle Patel,Web Development,2023-10-09,45,No-show,4.1,Covered system design
+S00552,M0189,T0497,Noah Garcia,Emma Martinez,Machine Learning,2022-11-04,45,Completed,4.0,Project feedback
+S00553,M0052,T0207,Lucas Young,Emma White,Mobile Development,2023-02-06,60,Cancelled,3.2,Discussed portfolio review
+S00554,M0040,T0131,James Osei,Elena Garcia,Machine Learning,2022-10-22,90,Scheduled,4.3,Discussed portfolio review
+S00555,M0166,T0451,Arjun Kumar,Noah Silva,Machine Learning,2022-06-30,90,Completed,3.7,Career roadmap planning
+S00556,M0167,T0235,Mei Silva,Noah Brown,DevOps,2023-12-23,45,Scheduled,4.7,Mock interview
+S00557,M0036,T0273,Sarah Clark,Pooja Lewis,Data Science,2023-02-26,45,Completed,,Mock interview
+S00558,M0148,T0433,Lucas Osei,Hannah Sharma,Mobile Development,2022-08-09,90,Completed,3.6,Project feedback
+S00559,M0115,T0012,Elena Wilson,Nadia Rossi,Mobile Development,2022-11-22,90,Scheduled,3.9,Code review session
+S00560,M0067,T0113,Chloe Osei,Daniel Taylor,Product Management,2022-02-25,60,Scheduled,3.7,
+S00561,M0066,T0362,Noah Rossi,Michael Lewis,Blockchain,2022-02-16,60,Scheduled,4.1,Covered system design
+S00562,M0135,T0092,Liam Sharma,Sana Kumar,Machine Learning,2023-07-03,45,No-show,,Mock interview
+S00563,M0061,T0486,Michael Harris,Isabelle Patel,UI/UX Design,2023-09-18,60,Completed,3.0,Project feedback
+S00564,M0095,T0306,Aarav Wilson,Wei Sharma,Web Development,2022-01-22,90,Completed,3.7,Code review session
+S00565,M0175,T0226,Aisha Tremblay,Olivia Rossi,Web Development,2023-07-21,30,No-show,,Covered system design
+S00566,M0119,T0087,Liam Martinez,Lucas Harris,Data Science,2023-01-06,45,Completed,3.8,Project feedback
+S00567,M0120,T0065,Raj Smith,Arjun Thompson,UI/UX Design,2022-08-23,60,Completed,3.7,Covered system design
+S00568,M0131,T0181,Michael Brown,Chloe Lee,Cybersecurity,2023-07-21,45,Completed,,Discussed portfolio review
+S00569,M0028,T0288,Daniel Patel,Tyler Patel,Product Management,2023-06-24,30,Cancelled,4.0,Covered system design
+S00570,M0095,T0138,Aarav Wilson,Ahmed Lee,Web Development,2022-10-17,60,Completed,,
+S00571,M0001,T0322,Nadia Garcia,Ivan Patel,Web Development,2023-12-06,45,Completed,,Discussed portfolio review
+S00572,M0104,T0005,Chloe Garcia,Lucas Smith,Data Science,2023-01-22,90,Completed,4.8,
+S00573,M0090,T0140,Noah Davis,Ethan Lewis,DevOps,2022-03-28,30,Completed,4.4,Project feedback
+S00574,M0100,T0346,Zara Osei,Aisha Hall,Web Development,2023-03-02,30,Completed,4.1,Covered system design
+S00575,M0034,T0479,Nadia Rossi,Kofi Rossi,Mobile Development,2022-04-08,90,Completed,4.7,
+S00576,M0180,T0311,Chloe Johnson,Kiran Wilson,Blockchain,2022-11-28,90,Cancelled,3.6,Career roadmap planning
+S00577,M0077,T0404,Noah Brown,Noah Smith,Blockchain,2022-07-27,30,Completed,4.2,Career roadmap planning
+S00578,M0100,T0232,Zara Osei,Kofi Kumar,Web Development,2022-10-26,90,Completed,,Career roadmap planning
+S00579,M0197,T0113,Nadia Harris,Daniel Taylor,DevOps,2023-07-29,60,Scheduled,,Project feedback
+S00580,M0119,T0165,Liam Martinez,Michael Sharma,Data Science,2023-07-01,45,Scheduled,,Career roadmap planning
+S00581,M0097,T0325,Wei Garcia,Arjun Harris,DevOps,2023-02-08,60,Cancelled,3.9,Mock interview
+S00582,M0083,T0443,Priya Kim,Riya Davis,Product Management,2022-01-26,90,Completed,4.0,Discussed portfolio review
+S00583,M0064,T0119,Priya Patel,Pooja Lee,Machine Learning,2023-10-21,60,Completed,,Project feedback
+S00584,M0172,T0021,Sarah Silva,Aisha Kumar,Machine Learning,2022-03-27,30,Cancelled,,
+S00585,M0079,T0124,Kiran Rossi,Arjun White,UI/UX Design,2023-05-17,45,Completed,,Mock interview
+S00586,M0082,T0392,Lucas Walker,Omar Garcia,Machine Learning,2023-04-30,45,Completed,3.5,Code review session
+S00587,M0062,T0333,Arjun Harris,Aisha Kumar,Blockchain,2022-12-12,45,Completed,4.1,Career roadmap planning
+S00588,M0153,T0015,Lucas Kumar,Nadia Patel,Cybersecurity,2022-01-06,60,No-show,,Mock interview
+S00589,M0047,T0148,Ivan Clark,Rohan Anderson,Mobile Development,2023-05-16,90,Completed,3.5,Career roadmap planning
+S00590,M0108,T0253,Riya Müller,Aisha Young,DevOps,2023-12-27,90,Cancelled,4.5,Project feedback
+S00591,M0099,T0235,Raj Clark,Noah Brown,DevOps,2022-03-25,30,Scheduled,3.8,
+S00592,M0096,T0097,Pooja White,Olivia Smith,UI/UX Design,2022-01-14,45,Cancelled,3.3,Career roadmap planning
+S00593,M0175,T0012,Aisha Tremblay,Nadia Rossi,Web Development,2022-04-27,30,Scheduled,4.3,Mock interview
+S00594,M0001,T0451,Nadia Garcia,Noah Silva,Web Development,2023-05-14,45,No-show,3.8,Discussed portfolio review
+S00595,M0118,T0187,Nadia Lee,Mei Müller,Cybersecurity,2022-10-31,30,Scheduled,4.4,Project feedback
+S00596,M0082,T0243,Lucas Walker,Priya Garcia,Machine Learning,2022-10-05,60,Cancelled,4.1,Covered system design
+S00597,M0172,T0287,Sarah Silva,Nadia Sharma,Machine Learning,2022-05-25,60,Cancelled,4.6,Project feedback
+S00598,M0097,T0107,Wei Garcia,Sarah Brown,DevOps,2023-01-16,60,Scheduled,4.9,Project feedback
+S00599,M0167,T0356,Mei Silva,Priya Martinez,DevOps,2022-05-19,45,Cancelled,3.9,Code review session
+S00600,M0143,T0024,Rohan Kumar,Arjun Patel,UI/UX Design,2023-03-03,45,Completed,5.0,Discussed portfolio review
+S00601,M0190,T0256,Chloe Sharma,Lucas Kumar,Web Development,2022-11-16,45,Completed,4.1,Code review session
+S00602,M0194,T0095,Mei Davis,Liam Osei,Data Science,2022-04-07,30,Cancelled,3.3,Code review session
+S00603,M0097,T0108,Wei Garcia,Noah Hall,DevOps,2023-10-14,45,Completed,4.9,Code review session
+S00604,M0176,T0103,Alex Kim,Emma Walker,DevOps,2022-10-19,90,Cancelled,3.7,
+S00605,M0125,T0090,Alex Thompson,Arjun Silva,Blockchain,2023-02-17,60,Cancelled,4.3,Discussed portfolio review
+S00606,M0156,T0069,Ethan Lee,Tyler Martinez,Web Development,2023-08-30,45,Completed,3.6,Code review session
+S00607,M0152,T0028,Michael Ali,Daniel Thompson,Cybersecurity,2023-08-01,30,Completed,4.2,
+S00608,M0133,T0043,Aarav Ali,Divya Kumar,Cybersecurity,2023-01-28,60,Cancelled,4.2,Code review session
+S00609,M0081,T0297,Ivan Wilson,Ethan Martinez,Blockchain,2023-09-23,90,Completed,,
+S00610,M0086,T0387,Ethan Thompson,James Martinez,Product Management,2022-08-26,45,Completed,4.2,Covered system design
+S00611,M0094,T0214,Liam Garcia,Liam Lee,Blockchain,2022-06-18,90,Completed,4.8,Discussed portfolio review
+S00612,M0047,T0482,Ivan Clark,Wei Kumar,Mobile Development,2022-05-21,90,Scheduled,3.7,Mock interview
+S00613,M0052,T0430,Lucas Young,Fatima Taylor,Mobile Development,2022-05-01,45,Cancelled,4.5,Project feedback
+S00614,M0086,T0095,Ethan Thompson,Liam Osei,Product Management,2023-05-01,60,Completed,3.6,Discussed portfolio review
+S00615,M0094,T0034,Liam Garcia,Divya Taylor,Blockchain,2023-09-12,45,Completed,4.7,Project feedback
+S00616,M0089,T0293,Elena Smith,Elena Tremblay,Product Management,2022-05-27,90,Cancelled,4.4,Code review session
+S00617,M0033,T0375,Pooja Silva,Fatima Taylor,Blockchain,2023-12-03,30,Cancelled,4.3,Covered system design
+S00618,M0059,T0277,Yusuf Lee,Carlos Wang,Cybersecurity,2022-01-26,60,Scheduled,3.7,Career roadmap planning
+S00619,M0062,T0055,Arjun Harris,Isabelle Müller,Blockchain,2022-08-07,45,Scheduled,4.9,Discussed portfolio review
+S00620,M0172,T0494,Sarah Silva,Omar Osei,Machine Learning,2022-07-20,90,Completed,3.0,Code review session
+S00621,M0101,T0202,Mei Davis,Carlos Davis,UI/UX Design,2022-12-03,30,Completed,4.0,Discussed portfolio review
+S00622,M0159,T0089,Aisha Young,Aisha Kim,Product Management,2023-09-14,60,Completed,4.3,Career roadmap planning
+S00623,M0026,T0126,Lucas Sharma,Hannah Kim,Cloud Computing,2022-02-14,60,Completed,4.9,
+S00624,M0137,T0440,Michael Young,Lucas Patel,Machine Learning,2022-02-01,90,Cancelled,4.0,Career roadmap planning
+S00625,M0148,T0201,Lucas Osei,Aisha Sharma,Mobile Development,2023-10-26,30,Completed,4.2,Project feedback
+S00626,M0138,T0120,Emma Thompson,Lucas Kumar,DevOps,2022-06-06,45,Completed,,
+S00627,M0171,T0453,Isabelle Tremblay,Hannah Harris,Product Management,2022-05-03,30,Scheduled,3.1,Discussed portfolio review
+S00628,M0014,T0341,Wei Johnson,Chloe Davis,Mobile Development,2023-07-12,60,Completed,4.5,Code review session
+S00629,M0175,T0267,Aisha Tremblay,Sarah Kumar,Web Development,2023-11-20,60,No-show,,Mock interview
+S00630,M0023,T0034,Kofi Wilson,Divya Taylor,Mobile Development,2023-01-11,30,No-show,4.7,Project feedback
+S00631,M0114,T0205,Yusuf Wilson,Alex Harris,DevOps,2022-03-04,30,Completed,4.0,Project feedback
+S00632,M0139,T0163,Raj Harris,Isabelle Garcia,Mobile Development,2022-10-01,30,Completed,3.6,Covered system design
+S00633,M0146,T0291,Kiran Garcia,Elena Martinez,Machine Learning,2023-12-07,90,Completed,4.7,Discussed portfolio review
+S00634,M0116,T0182,Michael Martinez,Sarah Smith,Web Development,2022-11-15,60,Cancelled,3.7,Mock interview
+S00635,M0147,T0411,Kofi Wilson,Ivan Wang,Product Management,2023-12-15,30,Cancelled,3.2,Discussed portfolio review
+S00636,M0129,T0275,Sofia Ali,James White,DevOps,2022-07-06,30,Completed,4.3,Discussed portfolio review
+S00637,M0106,T0065,Carlos Patel,Arjun Thompson,Product Management,2022-06-23,30,Completed,3.9,Project feedback
+S00638,M0084,T0216,Rohan Ali,Kofi Robinson,Blockchain,2022-09-10,60,No-show,4.8,Covered system design
+S00639,M0019,T0155,Alex Smith,Lucas Lewis,Product Management,2022-05-16,60,Completed,3.6,Code review session
+S00640,M0022,T0117,Divya Brown,James Lee,Cybersecurity,2022-05-24,60,Scheduled,,Covered system design
+S00641,M0180,T0318,Chloe Johnson,Aarav Wang,Blockchain,2022-10-07,45,Completed,3.5,Career roadmap planning
+S00642,M0072,T0057,Carlos Patel,Wei Sharma,UI/UX Design,2022-09-28,30,Scheduled,3.7,
+S00643,M0056,T0003,Daniel Silva,Olivia Patel,Web Development,2023-10-20,90,No-show,3.3,
+S00644,M0118,T0347,Nadia Lee,Kofi Young,Cybersecurity,2023-08-23,90,Completed,3.4,Project feedback
+S00645,M0052,T0442,Lucas Young,Priya Brown,Mobile Development,2023-03-21,60,No-show,4.6,Covered system design
+S00646,M0135,T0333,Liam Sharma,Aisha Kumar,Machine Learning,2022-12-17,60,Completed,3.4,Covered system design
+S00647,M0069,T0059,Michael Harris,Omar Tremblay,Web Development,2023-04-24,60,Completed,4.0,Project feedback
+S00648,M0061,T0262,Michael Harris,Daniel Kim,UI/UX Design,2022-07-10,90,Completed,3.6,Mock interview
+S00649,M0108,T0311,Riya Müller,Kiran Wilson,DevOps,2023-01-22,30,Completed,4.3,
+S00650,M0023,T0024,Kofi Wilson,Arjun Patel,Mobile Development,2022-01-09,45,Scheduled,3.7,Discussed portfolio review
+S00651,M0123,T0272,Divya Rossi,Carlos Sharma,Web Development,2022-07-11,60,Completed,,Mock interview
+S00652,M0040,T0068,James Osei,Elena Robinson,Machine Learning,2022-07-10,30,Scheduled,3.9,Mock interview
+S00653,M0011,T0194,Noah Clark,Rohan Garcia,Web Development,2023-12-13,90,No-show,4.7,Code review session
+S00654,M0061,T0313,Michael Harris,Priya Johnson,UI/UX Design,2023-01-18,60,Scheduled,3.6,Covered system design
+S00655,M0086,T0365,Ethan Thompson,Zara Garcia,Product Management,2023-06-04,30,Scheduled,3.5,Mock interview
+S00656,M0139,T0479,Raj Harris,Kofi Rossi,Mobile Development,2023-02-15,30,Completed,4.8,Mock interview
+S00657,M0166,T0431,Arjun Kumar,Carlos Harris,Machine Learning,2023-12-16,45,Cancelled,3.3,Code review session
+S00658,M0076,T0206,Aisha Johnson,Yusuf Kumar,Blockchain,2022-02-25,30,Completed,3.3,Code review session
+S00659,M0019,T0139,Alex Smith,Elena Anderson,Product Management,2023-04-15,90,Completed,4.3,Covered system design
+S00660,M0016,T0351,Arjun Smith,Omar Lewis,Data Science,2022-06-26,60,Completed,,Covered system design
+S00661,M0091,T0224,Omar Rossi,James Taylor,Web Development,2022-07-28,90,Completed,3.3,Mock interview
+S00662,M0012,T0212,Isabelle Hall,Sana Lewis,UI/UX Design,2023-01-19,30,Scheduled,,Discussed portfolio review
+S00663,M0048,T0497,Yusuf Osei,Emma Martinez,Data Science,2023-04-28,90,No-show,,Career roadmap planning
+S00664,M0095,T0469,Aarav Wilson,Michael Walker,Web Development,2023-11-16,90,Scheduled,4.5,Discussed portfolio review
+S00665,M0004,T0019,Liam Thompson,Emma Sharma,Cybersecurity,2023-02-01,45,Completed,3.3,
+S00666,M0157,T0481,Liam Smith,James Müller,Cloud Computing,2022-12-01,60,No-show,3.8,Career roadmap planning
+S00667,M0008,T0465,Kofi Anderson,Divya Wilson,Machine Learning,2023-07-01,30,Completed,4.5,Mock interview
+S00668,M0192,T0148,Ethan Anderson,Rohan Anderson,Cloud Computing,2022-01-28,45,Cancelled,,Covered system design
+S00669,M0173,T0085,James Young,Arjun Davis,DevOps,2023-01-13,60,Completed,3.0,Mock interview
+S00670,M0106,T0316,Carlos Patel,Divya Wang,Product Management,2023-02-12,30,No-show,,Career roadmap planning
+S00671,M0140,T0072,Yusuf Hall,Ethan Davis,Web Development,2022-07-12,30,Completed,3.2,Career roadmap planning
+S00672,M0156,T0462,Ethan Lee,Rohan Taylor,Web Development,2023-11-01,45,Scheduled,,Code review session
+S00673,M0071,T0189,Ivan Kumar,Kofi Tremblay,DevOps,2023-02-01,90,Completed,,Career roadmap planning
+S00674,M0103,T0093,Amara Osei,Ethan Brown,Web Development,2022-07-03,45,Scheduled,4.7,Career roadmap planning
+S00675,M0167,T0429,Mei Silva,Raj Robinson,DevOps,2022-03-26,60,No-show,4.3,Career roadmap planning
+S00676,M0152,T0389,Michael Ali,Amara Ali,Cybersecurity,2022-01-13,45,Completed,,Mock interview
+S00677,M0005,T0149,Nadia White,Olivia Kim,DevOps,2023-01-29,90,Completed,4.9,Career roadmap planning
+S00678,M0149,T0342,Isabelle Walker,Chloe Johnson,DevOps,2023-03-09,30,Completed,4.5,Discussed portfolio review
+S00679,M0090,T0224,Noah Davis,James Taylor,DevOps,2023-09-11,90,Cancelled,3.9,Code review session
+S00680,M0016,T0493,Arjun Smith,Lucas Sharma,Data Science,2023-07-02,60,Completed,5.0,Mock interview
+S00681,M0026,T0265,Lucas Sharma,Arjun Young,Cloud Computing,2023-01-28,30,Completed,,Project feedback
+S00682,M0015,T0057,Wei Wilson,Wei Sharma,Cybersecurity,2023-08-28,60,Completed,4.2,
+S00683,M0067,T0159,Chloe Osei,Aisha Lee,Product Management,2023-04-11,90,Completed,3.1,
+S00684,M0031,T0437,Lucas Lewis,Omar Kim,Cybersecurity,2023-05-17,90,Completed,,Mock interview
+S00685,M0042,T0178,Kofi Kim,James Wilson,Mobile Development,2023-12-04,60,Completed,4.3,
+S00686,M0137,T0472,Michael Young,Rohan Wang,Machine Learning,2022-01-25,60,Completed,,Career roadmap planning
+S00687,M0062,T0266,Arjun Harris,Hannah Ali,Blockchain,2022-01-18,90,Completed,,Discussed portfolio review
+S00688,M0108,T0028,Riya Müller,Daniel Thompson,DevOps,2023-09-03,30,Completed,4.1,Career roadmap planning
+S00689,M0175,T0433,Aisha Tremblay,Hannah Sharma,Web Development,2022-09-12,45,Completed,3.3,Covered system design
+S00690,M0088,T0492,Kofi Sharma,Hannah Smith,UI/UX Design,2023-10-11,90,Scheduled,3.7,Career roadmap planning
+S00691,M0142,T0026,Kofi Tremblay,James Hall,Web Development,2023-12-07,45,No-show,4.1,Discussed portfolio review
+S00692,M0116,T0075,Michael Martinez,Isabelle Silva,Web Development,2022-03-20,60,Completed,,Mock interview
+S00693,M0040,T0046,James Osei,Lucas Müller,Machine Learning,2023-10-16,30,Scheduled,4.5,Code review session
+S00694,M0065,T0372,Alex Walker,Kofi Hall,Machine Learning,2023-10-15,60,Scheduled,3.4,Project feedback
+S00695,M0146,T0434,Kiran Garcia,Zara Tremblay,Machine Learning,2022-09-21,30,Scheduled,4.6,Mock interview
+S00696,M0148,T0003,Lucas Osei,Olivia Patel,Mobile Development,2022-09-25,60,Cancelled,4.7,Covered system design
+S00697,M0087,T0429,Zara Sharma,Raj Robinson,Cloud Computing,2023-12-12,30,Completed,3.4,Career roadmap planning
+S00698,M0190,T0409,Chloe Sharma,Ahmed Johnson,Web Development,2022-10-09,45,Completed,3.1,Career roadmap planning
+S00699,M0176,T0391,Alex Kim,Tyler Walker,DevOps,2022-07-05,60,Completed,,Covered system design
+S00700,M0175,T0398,Aisha Tremblay,Omar Müller,Web Development,2022-01-20,90,No-show,,Code review session
+S00701,M0144,T0072,Raj Thompson,Ethan Davis,Data Science,2023-04-19,60,Completed,,Discussed portfolio review
+S00702,M0006,T0282,Liam Lewis,Ivan Taylor,Data Science,2023-12-28,60,Completed,,Code review session
+S00703,M0195,T0425,Fatima Lewis,Michael Lee,Web Development,2023-12-31,90,Cancelled,4.2,Mock interview
+S00704,M0060,T0094,Sofia Rossi,Rohan Young,Product Management,2023-02-03,90,Cancelled,,Code review session
+S00705,M0159,T0280,Aisha Young,Omar Kim,Product Management,2022-11-24,60,Scheduled,,
+S00706,M0102,T0310,Kiran Young,Olivia Sharma,Machine Learning,2023-05-26,45,Cancelled,4.3,Code review session
+S00707,M0170,T0116,James Martinez,Hannah Brown,Cybersecurity,2023-02-17,30,No-show,4.9,Project feedback
+S00708,M0108,T0154,Riya Müller,Isabelle Lee,DevOps,2023-05-14,60,Completed,,Mock interview
+S00709,M0066,T0189,Noah Rossi,Kofi Tremblay,Blockchain,2023-01-14,60,Completed,3.9,Career roadmap planning
+S00710,M0066,T0249,Noah Rossi,Alex Smith,Blockchain,2022-01-31,45,Cancelled,4.2,Mock interview
+S00711,M0116,T0379,Michael Martinez,Mei Osei,Web Development,2023-03-18,90,Completed,3.6,Project feedback
+S00712,M0171,T0373,Isabelle Tremblay,Hannah Müller,Product Management,2023-05-18,45,Scheduled,3.3,Mock interview
+S00713,M0020,T0028,Arjun Rossi,Daniel Thompson,DevOps,2022-05-07,30,Scheduled,,Discussed portfolio review
+S00714,M0096,T0198,Pooja White,Sofia Ali,UI/UX Design,2023-08-08,60,Completed,4.5,Project feedback
+S00715,M0031,T0344,Lucas Lewis,Ivan Johnson,Cybersecurity,2023-02-15,90,Completed,3.8,Mock interview
+S00716,M0189,T0063,Noah Garcia,Tyler Robinson,Machine Learning,2022-10-13,60,Completed,4.3,Project feedback
+S00717,M0131,T0377,Michael Brown,Arjun Silva,Cybersecurity,2023-10-11,60,Cancelled,3.8,
+S00718,M0041,T0087,Chloe Lewis,Lucas Harris,Cloud Computing,2023-02-18,90,Scheduled,,Career roadmap planning
+S00719,M0132,T0343,Hannah Wang,Kofi Wang,Mobile Development,2022-06-10,45,Scheduled,,Mock interview
+S00720,M0193,T0079,Michael Lee,Wei Johnson,Data Science,2022-12-09,90,No-show,,Discussed portfolio review
+S00721,M0079,T0310,Kiran Rossi,Olivia Sharma,UI/UX Design,2023-01-28,90,Scheduled,4.3,Mock interview
+S00722,M0027,T0397,Daniel Kim,Ahmed Thompson,Data Science,2022-08-18,45,Cancelled,5.0,Mock interview
+S00723,M0042,T0493,Kofi Kim,Lucas Sharma,Mobile Development,2023-08-08,90,Completed,3.5,Mock interview
+S00724,M0192,T0265,Ethan Anderson,Arjun Young,Cloud Computing,2023-10-03,90,No-show,,Code review session
+S00725,M0140,T0451,Yusuf Hall,Noah Silva,Web Development,2022-01-24,90,Cancelled,3.4,Covered system design
+S00726,M0005,T0116,Nadia White,Hannah Brown,DevOps,2023-04-14,60,No-show,3.4,Project feedback
+S00727,M0155,T0469,Omar Sharma,Michael Walker,Data Science,2022-07-24,60,Completed,,Discussed portfolio review
+S00728,M0178,T0125,Ahmed Sharma,Kofi Martinez,Product Management,2022-07-31,90,Scheduled,,Mock interview
+S00729,M0044,T0419,Yusuf Sharma,Tyler Kumar,Product Management,2023-03-31,45,Completed,4.0,Discussed portfolio review
+S00730,M0200,T0017,Liam Kumar,Ivan Sharma,Cybersecurity,2023-09-11,60,Completed,,Project feedback
+S00731,M0060,T0232,Sofia Rossi,Kofi Kumar,Product Management,2022-03-13,30,No-show,,Project feedback
+S00732,M0131,T0077,Michael Brown,Alex Anderson,Cybersecurity,2023-02-21,90,Scheduled,,Career roadmap planning
+S00733,M0183,T0086,Emma Müller,Sofia Robinson,Machine Learning,2022-09-24,30,No-show,4.3,Mock interview
+S00734,M0044,T0009,Yusuf Sharma,Zara Sharma,Product Management,2022-01-25,90,Scheduled,3.1,
+S00735,M0197,T0368,Nadia Harris,Pooja Müller,DevOps,2023-02-12,30,Completed,4.9,Project feedback
+S00736,M0035,T0364,Tyler Ali,Daniel Lee,Cybersecurity,2023-10-28,90,Scheduled,3.2,
+S00737,M0013,T0485,Lucas Smith,Fatima White,Web Development,2022-09-26,30,No-show,,Career roadmap planning
+S00738,M0081,T0361,Ivan Wilson,James Garcia,Blockchain,2023-11-04,60,Completed,4.6,Covered system design
+S00739,M0181,T0465,Daniel Tremblay,Divya Wilson,Data Science,2022-09-28,30,Completed,3.1,Project feedback
+S00740,M0177,T0370,Pooja Lee,Daniel Kim,UI/UX Design,2023-05-19,45,Completed,4.4,Code review session
+S00741,M0200,T0004,Liam Kumar,Mei Smith,Cybersecurity,2023-04-07,60,Cancelled,,Discussed portfolio review
+S00742,M0135,T0245,Liam Sharma,Sofia Harris,Machine Learning,2022-05-24,45,Cancelled,,Covered system design
+S00743,M0099,T0374,Raj Clark,Zara Walker,DevOps,2023-01-15,60,No-show,,Project feedback
+S00744,M0047,T0467,Ivan Clark,Daniel Sharma,Mobile Development,2022-06-12,60,Scheduled,4.3,Covered system design
+S00745,M0105,T0389,Ethan Wilson,Amara Ali,DevOps,2023-12-13,45,Completed,4.7,Code review session
+S00746,M0076,T0149,Aisha Johnson,Olivia Kim,Blockchain,2023-10-15,45,Completed,4.2,Covered system design
+S00747,M0038,T0230,Fatima Rossi,Zara Sharma,UI/UX Design,2023-08-22,30,Completed,4.0,
+S00748,M0075,T0244,Noah Robinson,Aisha Brown,Machine Learning,2023-06-14,90,Scheduled,3.3,Code review session
+S00749,M0174,T0071,Mei Sharma,Isabelle Patel,Machine Learning,2023-10-22,45,Cancelled,3.6,Code review session
+S00750,M0059,T0221,Yusuf Lee,Riya Kumar,Cybersecurity,2023-01-23,90,No-show,,Mock interview
+S00751,M0164,T0374,Rohan Clark,Zara Walker,Cloud Computing,2023-05-09,45,Scheduled,3.0,Discussed portfolio review
+S00752,M0006,T0189,Liam Lewis,Kofi Tremblay,Data Science,2022-12-17,45,Completed,,Covered system design
+S00753,M0064,T0326,Priya Patel,Rohan Ali,Machine Learning,2022-10-12,30,No-show,,Career roadmap planning
+S00754,M0133,T0016,Aarav Ali,Sana Robinson,Cybersecurity,2023-04-16,30,No-show,4.6,Mock interview
+S00755,M0123,T0143,Divya Rossi,Elena Walker,Web Development,2022-08-22,45,Completed,3.8,Discussed portfolio review
+S00756,M0145,T0047,Amara Wang,Alex Kumar,UI/UX Design,2022-12-04,30,Completed,4.1,Project feedback
+S00757,M0033,T0489,Pooja Silva,Michael Kim,Blockchain,2023-07-05,30,Completed,4.0,Covered system design
+S00758,M0073,T0275,Tyler Martinez,James White,Product Management,2022-09-20,45,No-show,4.7,Covered system design
+S00759,M0119,T0351,Liam Martinez,Omar Lewis,Data Science,2023-12-08,90,Completed,,Mock interview
+S00760,M0089,T0121,Elena Smith,Aisha Brown,Product Management,2022-09-30,60,Completed,4.5,Discussed portfolio review
+S00761,M0142,T0030,Kofi Tremblay,James Martinez,Web Development,2022-05-16,60,Completed,,Covered system design
+S00762,M0067,T0386,Chloe Osei,Fatima Kim,Product Management,2023-08-23,90,Scheduled,,
+S00763,M0072,T0367,Carlos Patel,Ivan Thompson,UI/UX Design,2022-02-22,60,No-show,,Career roadmap planning
+S00764,M0106,T0272,Carlos Patel,Carlos Sharma,Product Management,2022-04-30,90,Completed,3.2,Mock interview
+S00765,M0132,T0440,Hannah Wang,Lucas Patel,Mobile Development,2022-08-09,90,Completed,4.2,
+S00766,M0169,T0119,Isabelle Anderson,Pooja Lee,UI/UX Design,2022-04-25,90,No-show,,
+S00767,M0173,T0448,James Young,Daniel Tremblay,DevOps,2023-10-13,90,Completed,,Career roadmap planning
+S00768,M0013,T0030,Lucas Smith,James Martinez,Web Development,2023-09-08,60,Scheduled,3.7,Career roadmap planning
+S00769,M0076,T0290,Aisha Johnson,Priya Brown,Blockchain,2023-06-11,60,No-show,,
+S00770,M0151,T0197,Michael Clark,Lucas Lee,Cybersecurity,2023-06-29,45,Completed,,Mock interview
+S00771,M0141,T0300,Carlos Davis,Emma Lee,Data Science,2023-05-31,60,No-show,5.0,Covered system design
+S00772,M0034,T0337,Nadia Rossi,Yusuf Walker,Mobile Development,2023-05-15,30,Completed,4.0,Career roadmap planning
+S00773,M0033,T0414,Pooja Silva,Carlos White,Blockchain,2022-06-17,45,Completed,4.3,Discussed portfolio review
+S00774,M0150,T0014,Fatima Walker,Hannah Wilson,Cybersecurity,2023-03-30,60,No-show,4.6,Covered system design
+S00775,M0005,T0442,Nadia White,Priya Brown,DevOps,2022-04-22,45,Completed,3.6,
+S00776,M0128,T0324,Emma Taylor,Divya Clark,Cloud Computing,2023-06-28,90,Completed,4.9,Covered system design
+S00777,M0120,T0117,Raj Smith,James Lee,UI/UX Design,2023-08-08,45,Completed,,
+S00778,M0086,T0040,Ethan Thompson,Michael Müller,Product Management,2023-02-10,45,Completed,3.3,Mock interview
+S00779,M0112,T0156,Chloe Lee,Ahmed Osei,Mobile Development,2023-05-01,90,No-show,,Code review session
+S00780,M0067,T0005,Chloe Osei,Lucas Smith,Product Management,2023-04-29,60,Completed,,Code review session
+S00781,M0084,T0292,Rohan Ali,Sana Taylor,Blockchain,2022-12-29,60,Scheduled,4.1,
+S00782,M0069,T0200,Michael Harris,Aisha Silva,Web Development,2023-03-04,30,Scheduled,,Career roadmap planning
+S00783,M0164,T0443,Rohan Clark,Riya Davis,Cloud Computing,2022-12-29,45,Scheduled,3.0,Project feedback
+S00784,M0165,T0062,James Ali,Fatima White,Machine Learning,2022-07-27,45,No-show,3.6,Code review session
+S00785,M0002,T0481,Yusuf Wang,James Müller,Product Management,2022-01-25,60,Scheduled,3.7,Mock interview
+S00786,M0148,T0441,Lucas Osei,Lucas White,Mobile Development,2022-07-24,45,Cancelled,4.7,Discussed portfolio review
+S00787,M0025,T0342,Riya Lewis,Chloe Johnson,Data Science,2022-03-18,45,Completed,4.0,Project feedback
+S00788,M0035,T0064,Tyler Ali,Ethan Wang,Cybersecurity,2023-08-31,90,Completed,3.8,Project feedback
+S00789,M0146,T0016,Kiran Garcia,Sana Robinson,Machine Learning,2023-05-14,45,Completed,4.2,Discussed portfolio review
+S00790,M0180,T0124,Chloe Johnson,Arjun White,Blockchain,2022-04-14,30,No-show,4.1,Career roadmap planning
+S00791,M0184,T0164,Noah Martinez,Yusuf Davis,UI/UX Design,2022-10-19,30,Scheduled,,Project feedback
+S00792,M0178,T0374,Ahmed Sharma,Zara Walker,Product Management,2022-03-17,60,No-show,3.3,Covered system design
+S00793,M0127,T0367,Sana Brown,Ivan Thompson,Blockchain,2023-08-27,60,Cancelled,,Discussed portfolio review
+S00794,M0065,T0310,Alex Walker,Olivia Sharma,Machine Learning,2023-03-25,45,Completed,4.5,Code review session
+S00795,M0075,T0197,Noah Robinson,Lucas Lee,Machine Learning,2023-07-25,60,No-show,,
+S00796,M0184,T0200,Noah Martinez,Aisha Silva,UI/UX Design,2022-03-11,60,Completed,3.9,Covered system design
+S00797,M0098,T0129,Isabelle Patel,Olivia Anderson,Machine Learning,2022-07-08,60,Scheduled,,Code review session
+S00798,M0178,T0442,Ahmed Sharma,Priya Brown,Product Management,2022-12-08,45,No-show,3.5,Mock interview
+S00799,M0174,T0433,Mei Sharma,Hannah Sharma,Machine Learning,2022-01-24,45,Completed,3.9,
+S00800,M0142,T0007,Kofi Tremblay,Liam Wang,Web Development,2023-05-14,30,Cancelled,,Mock interview
+S00801,M0105,T0255,Ethan Wilson,Fatima Taylor,DevOps,2023-01-18,30,Cancelled,3.1,Mock interview
+S00802,M0102,T0184,Kiran Young,Lucas Harris,Machine Learning,2022-12-01,90,Completed,4.3,Project feedback
+S00803,M0031,T0357,Lucas Lewis,Amara Walker,Cybersecurity,2022-03-19,30,Cancelled,4.1,
+S00804,M0005,T0300,Nadia White,Emma Lee,DevOps,2023-06-10,30,Cancelled,4.2,Covered system design
+S00805,M0051,T0460,Olivia Kim,Rohan Clark,Cybersecurity,2022-03-16,90,Completed,4.8,Project feedback
+S00806,M0129,T0420,Sofia Ali,Chloe Martinez,DevOps,2022-06-05,60,Completed,,Mock interview
+S00807,M0153,T0227,Lucas Kumar,Ethan Thompson,Cybersecurity,2022-12-14,90,Cancelled,4.5,Career roadmap planning
+S00808,M0041,T0256,Chloe Lewis,Lucas Kumar,Cloud Computing,2022-01-22,90,Cancelled,,Mock interview
+S00809,M0156,T0454,Ethan Lee,Yusuf Johnson,Web Development,2023-02-04,30,Completed,,Career roadmap planning
+S00810,M0142,T0362,Kofi Tremblay,Michael Lewis,Web Development,2022-06-04,60,Completed,4.5,Mock interview
+S00811,M0139,T0355,Raj Harris,Sana Tremblay,Mobile Development,2023-04-14,45,Cancelled,4.8,Project feedback
+S00812,M0119,T0337,Liam Martinez,Yusuf Walker,Data Science,2023-08-14,45,Completed,3.4,Covered system design
+S00813,M0046,T0156,Nadia Osei,Ahmed Osei,DevOps,2022-04-14,30,Cancelled,4.7,
+S00814,M0055,T0013,Tyler Silva,Olivia Müller,Mobile Development,2022-05-11,60,Completed,3.6,Covered system design
+S00815,M0139,T0145,Raj Harris,Sana Harris,Mobile Development,2023-11-05,45,Completed,3.8,Code review session
+S00816,M0048,T0403,Yusuf Osei,Carlos Lewis,Data Science,2022-08-27,45,Completed,,Career roadmap planning
+S00817,M0168,T0264,Raj White,Isabelle White,Blockchain,2022-05-07,90,Completed,4.5,Project feedback
+S00818,M0079,T0077,Kiran Rossi,Alex Anderson,UI/UX Design,2022-08-02,90,Completed,3.8,Covered system design
+S00819,M0199,T0250,Liam Wilson,Hannah Taylor,Machine Learning,2023-01-25,30,Completed,4.0,Mock interview
+S00820,M0072,T0346,Carlos Patel,Aisha Hall,UI/UX Design,2023-06-13,30,Completed,3.2,Career roadmap planning
+S00821,M0126,T0389,Liam Patel,Amara Ali,Blockchain,2023-09-12,60,No-show,3.8,Covered system design
+S00822,M0115,T0100,Elena Wilson,James Wilson,Mobile Development,2022-04-03,60,Scheduled,,Discussed portfolio review
+S00823,M0094,T0094,Liam Garcia,Rohan Young,Blockchain,2023-04-13,30,Completed,3.8,
+S00824,M0038,T0133,Fatima Rossi,Arjun Müller,UI/UX Design,2022-04-13,60,Completed,4.7,Career roadmap planning
+S00825,M0060,T0113,Sofia Rossi,Daniel Taylor,Product Management,2023-10-30,60,Completed,3.2,Project feedback
+S00826,M0048,T0359,Yusuf Osei,Aarav Robinson,Data Science,2023-02-04,90,Completed,3.5,Project feedback
+S00827,M0122,T0426,Amara Walker,Divya Clark,Product Management,2022-11-28,30,Completed,3.4,Discussed portfolio review
+S00828,M0149,T0329,Isabelle Walker,Aarav Kumar,DevOps,2022-05-12,45,Completed,4.5,Discussed portfolio review
+S00829,M0073,T0422,Tyler Martinez,Isabelle Smith,Product Management,2023-09-03,45,No-show,3.7,Career roadmap planning
+S00830,M0151,T0180,Michael Clark,Ethan Lee,Cybersecurity,2022-06-11,90,Completed,,Mock interview
+S00831,M0041,T0437,Chloe Lewis,Omar Kim,Cloud Computing,2022-06-05,45,Completed,3.2,Covered system design
+S00832,M0108,T0135,Riya Müller,Daniel Smith,DevOps,2022-01-31,90,Completed,4.3,
+S00833,M0179,T0227,Chloe Sharma,Ethan Thompson,Machine Learning,2022-09-29,60,Completed,3.7,Career roadmap planning
+S00834,M0147,T0118,Kofi Wilson,Priya Hall,Product Management,2022-02-05,45,Scheduled,,Career roadmap planning
+S00835,M0012,T0099,Isabelle Hall,Ahmed Young,UI/UX Design,2023-09-05,45,Completed,,Code review session
+S00836,M0150,T0210,Fatima Walker,Rohan Patel,Cybersecurity,2022-08-17,30,Scheduled,3.2,Career roadmap planning
+S00837,M0089,T0157,Elena Smith,Pooja Garcia,Product Management,2023-04-21,90,Cancelled,4.7,
+S00838,M0013,T0058,Lucas Smith,James Smith,Web Development,2023-10-15,30,Completed,4.8,Code review session
+S00839,M0090,T0470,Noah Davis,Sarah Harris,DevOps,2022-05-12,60,No-show,4.9,Project feedback
+S00840,M0168,T0105,Raj White,Riya Anderson,Blockchain,2022-04-09,90,Scheduled,4.7,Covered system design
+S00841,M0070,T0397,Zara Rossi,Ahmed Thompson,Cloud Computing,2022-05-09,45,Cancelled,,Covered system design
+S00842,M0179,T0261,Chloe Sharma,Aisha Hall,Machine Learning,2022-08-19,30,No-show,,Career roadmap planning
+S00843,M0018,T0495,Divya Young,Carlos Müller,Product Management,2022-10-17,30,Completed,,Covered system design
+S00844,M0051,T0140,Olivia Kim,Ethan Lewis,Cybersecurity,2023-11-07,60,Completed,3.9,Mock interview
+S00845,M0048,T0193,Yusuf Osei,Kiran Wang,Data Science,2023-06-17,60,Completed,3.7,Covered system design
+S00846,M0193,T0477,Michael Lee,Isabelle Smith,Data Science,2023-08-17,30,No-show,3.8,Discussed portfolio review
+S00847,M0147,T0149,Kofi Wilson,Olivia Kim,Product Management,2022-07-22,45,Completed,,Discussed portfolio review
+S00848,M0200,T0422,Liam Kumar,Isabelle Smith,Cybersecurity,2022-09-01,45,Scheduled,4.1,Career roadmap planning
+S00849,M0012,T0054,Isabelle Hall,Chloe Hall,UI/UX Design,2022-12-19,45,No-show,4.9,Career roadmap planning
+S00850,M0101,T0082,Mei Davis,Pooja Young,UI/UX Design,2023-04-08,45,Scheduled,4.1,Discussed portfolio review
+S00851,M0194,T0163,Mei Davis,Isabelle Garcia,Data Science,2022-10-14,60,Completed,3.4,Code review session
+S00852,M0188,T0231,Arjun Wang,Sarah Anderson,Web Development,2023-05-15,90,No-show,,
+S00853,M0160,T0409,Rohan Clark,Ahmed Johnson,Blockchain,2022-12-17,60,Completed,3.9,Discussed portfolio review
+S00854,M0131,T0137,Michael Brown,Nadia Kim,Cybersecurity,2023-07-11,45,Completed,,Career roadmap planning
+S00855,M0061,T0171,Michael Harris,Alex Garcia,UI/UX Design,2022-04-24,30,Cancelled,3.3,Code review session
+S00856,M0004,T0453,Liam Thompson,Hannah Harris,Cybersecurity,2022-11-11,90,Scheduled,4.9,
+S00857,M0007,T0039,Amara Harris,Nadia Hall,Cloud Computing,2023-06-01,45,Scheduled,4.8,Mock interview
+S00858,M0060,T0038,Sofia Rossi,Aisha Müller,Product Management,2022-07-19,45,No-show,,Discussed portfolio review
+S00859,M0023,T0327,Kofi Wilson,Omar Clark,Mobile Development,2022-07-23,60,Cancelled,3.3,
+S00860,M0012,T0094,Isabelle Hall,Rohan Young,UI/UX Design,2023-06-28,30,Cancelled,3.5,Mock interview
+S00861,M0003,T0307,Aarav Tremblay,Divya Patel,Web Development,2022-06-20,60,Completed,,Covered system design
+S00862,M0192,T0016,Ethan Anderson,Sana Robinson,Cloud Computing,2023-10-13,45,No-show,,Mock interview
+S00863,M0042,T0152,Kofi Kim,Aarav Müller,Mobile Development,2023-03-11,45,Completed,,Career roadmap planning
+S00864,M0074,T0346,Ahmed Patel,Aisha Hall,DevOps,2022-10-31,90,Cancelled,4.8,Career roadmap planning
+S00865,M0053,T0080,Isabelle Johnson,Raj Thompson,Cloud Computing,2022-11-26,45,No-show,3.0,Code review session
+S00866,M0184,T0262,Noah Martinez,Daniel Kim,UI/UX Design,2023-12-27,60,Completed,4.2,Discussed portfolio review
+S00867,M0007,T0419,Amara Harris,Tyler Kumar,Cloud Computing,2022-03-02,90,Completed,,
+S00868,M0014,T0378,Wei Johnson,Noah Wilson,Mobile Development,2022-06-14,45,Scheduled,4.3,Career roadmap planning
+S00869,M0159,T0060,Aisha Young,Divya Kim,Product Management,2023-08-29,45,Completed,3.1,Code review session
+S00870,M0122,T0062,Amara Walker,Fatima White,Product Management,2022-05-24,90,Completed,4.2,Project feedback
+S00871,M0176,T0062,Alex Kim,Fatima White,DevOps,2022-06-05,45,Scheduled,,Code review session
+S00872,M0113,T0097,Isabelle Wang,Olivia Smith,Cloud Computing,2022-12-02,30,No-show,,Code review session
+S00873,M0117,T0484,Zara Davis,Kiran Johnson,Blockchain,2023-06-21,30,No-show,3.5,Career roadmap planning
+S00874,M0110,T0089,Isabelle Patel,Aisha Kim,Mobile Development,2022-11-02,30,Cancelled,3.9,Discussed portfolio review
+S00875,M0036,T0324,Sarah Clark,Divya Clark,Data Science,2022-12-16,60,Completed,4.8,Discussed portfolio review
+S00876,M0196,T0262,Sarah Thompson,Daniel Kim,Mobile Development,2023-10-04,90,Scheduled,4.8,Project feedback
+S00877,M0157,T0166,Liam Smith,Elena Clark,Cloud Computing,2023-05-14,60,Completed,3.2,Project feedback
+S00878,M0162,T0296,Rohan White,Olivia Kumar,Cloud Computing,2023-09-10,60,Completed,4.3,
+S00879,M0022,T0116,Divya Brown,Hannah Brown,Cybersecurity,2023-12-20,90,Scheduled,,Discussed portfolio review
+S00880,M0099,T0425,Raj Clark,Michael Lee,DevOps,2022-10-14,60,Completed,3.7,Project feedback
+S00881,M0070,T0271,Zara Rossi,Sofia Harris,Cloud Computing,2022-09-15,60,Completed,,Project feedback
+S00882,M0187,T0135,Olivia Martinez,Daniel Smith,Machine Learning,2023-05-13,45,Cancelled,4.2,Project feedback
+S00883,M0123,T0280,Divya Rossi,Omar Kim,Web Development,2022-09-30,30,No-show,4.2,Mock interview
+S00884,M0017,T0002,Kofi White,Riya Sharma,Mobile Development,2023-01-20,90,Completed,4.2,
+S00885,M0147,T0115,Kofi Wilson,Fatima Lee,Product Management,2023-10-21,30,Cancelled,,
+S00886,M0063,T0458,Omar Walker,Michael Anderson,UI/UX Design,2022-09-02,60,Cancelled,4.8,Career roadmap planning
+S00887,M0114,T0467,Yusuf Wilson,Daniel Sharma,DevOps,2023-02-08,30,Completed,3.9,Career roadmap planning
+S00888,M0130,T0022,Aisha Rossi,Pooja Silva,UI/UX Design,2023-08-11,30,Scheduled,4.3,
+S00889,M0030,T0102,Kofi Lewis,Fatima Ali,Cloud Computing,2023-03-19,30,Completed,3.0,Code review session
+S00890,M0151,T0490,Michael Clark,Alex Tremblay,Cybersecurity,2022-04-12,60,Scheduled,4.5,
+S00891,M0044,T0314,Yusuf Sharma,Hannah White,Product Management,2022-09-17,60,No-show,4.9,Covered system design
+S00892,M0143,T0491,Rohan Kumar,James Müller,UI/UX Design,2022-10-11,90,Completed,4.4,Project feedback
+S00893,M0114,T0062,Yusuf Wilson,Fatima White,DevOps,2022-09-27,45,Completed,4.7,Project feedback
+S00894,M0118,T0246,Nadia Lee,Alex Kim,Cybersecurity,2022-11-26,90,Completed,3.3,Career roadmap planning
+S00895,M0029,T0388,Tyler Silva,Sarah Smith,Blockchain,2022-04-02,60,Completed,4.5,
+S00896,M0159,T0320,Aisha Young,Pooja Davis,Product Management,2022-08-22,60,Completed,,Project feedback
+S00897,M0050,T0364,Pooja Anderson,Daniel Lee,Blockchain,2022-04-03,90,Completed,4.3,
+S00898,M0093,T0426,Ivan Wilson,Divya Clark,UI/UX Design,2023-01-27,45,Completed,4.0,Code review session
+S00899,M0046,T0160,Nadia Osei,Sofia Patel,DevOps,2023-03-25,60,Completed,3.6,Discussed portfolio review
+S00900,M0068,T0339,Lucas Martinez,Aarav Ali,Product Management,2022-07-14,60,Cancelled,4.1,
+S00901,M0036,T0261,Sarah Clark,Aisha Hall,Data Science,2023-07-28,45,Scheduled,3.2,Discussed portfolio review
+S00902,M0013,T0033,Lucas Smith,Rohan Robinson,Web Development,2022-04-03,90,Completed,,Code review session
+S00903,M0196,T0357,Sarah Thompson,Amara Walker,Mobile Development,2023-06-30,60,Scheduled,,Career roadmap planning
+S00904,M0064,T0295,Priya Patel,Ahmed Rossi,Machine Learning,2022-04-17,60,Cancelled,3.2,Covered system design
+S00905,M0138,T0426,Emma Thompson,Divya Clark,DevOps,2023-03-30,30,Completed,4.3,Code review session
+S00906,M0170,T0295,James Martinez,Ahmed Rossi,Cybersecurity,2022-01-27,90,Completed,5.0,Covered system design
+S00907,M0082,T0395,Lucas Walker,Tyler Robinson,Machine Learning,2022-08-20,90,No-show,3.3,Code review session
+S00908,M0039,T0154,Priya Garcia,Isabelle Lee,Web Development,2022-09-07,30,Cancelled,3.9,Mock interview
+S00909,M0038,T0366,Fatima Rossi,Wei Ali,UI/UX Design,2023-07-19,45,Scheduled,,Mock interview
+S00910,M0061,T0144,Michael Harris,Yusuf Ali,UI/UX Design,2023-08-18,90,No-show,4.8,Career roadmap planning
+S00911,M0189,T0151,Noah Garcia,Fatima Kim,Machine Learning,2022-09-25,60,Completed,3.7,Covered system design
+S00912,M0145,T0258,Amara Wang,Ivan Clark,UI/UX Design,2022-11-24,60,Completed,3.3,
+S00913,M0193,T0131,Michael Lee,Elena Garcia,Data Science,2023-12-21,45,Cancelled,3.2,
+S00914,M0150,T0485,Fatima Walker,Fatima White,Cybersecurity,2023-06-04,90,Cancelled,4.6,Mock interview
+S00915,M0192,T0211,Ethan Anderson,Kiran Martinez,Cloud Computing,2022-08-22,60,No-show,5.0,
+S00916,M0151,T0216,Michael Clark,Kofi Robinson,Cybersecurity,2022-08-18,90,Completed,3.1,Mock interview
+S00917,M0017,T0007,Kofi White,Liam Wang,Mobile Development,2023-03-25,90,Cancelled,4.9,Covered system design
+S00918,M0074,T0180,Ahmed Patel,Ethan Lee,DevOps,2022-01-23,90,Cancelled,4.8,Career roadmap planning
+S00919,M0040,T0110,James Osei,Divya Sharma,Machine Learning,2023-12-25,45,Completed,3.1,Project feedback
+S00920,M0128,T0071,Emma Taylor,Isabelle Patel,Cloud Computing,2022-10-10,60,No-show,,Mock interview
+S00921,M0123,T0328,Divya Rossi,Sarah Thompson,Web Development,2023-05-18,90,No-show,3.3,Career roadmap planning
+S00922,M0067,T0477,Chloe Osei,Isabelle Smith,Product Management,2022-08-09,90,Completed,4.3,Code review session
+S00923,M0079,T0354,Kiran Rossi,Kofi Wang,UI/UX Design,2022-08-27,90,Completed,5.0,Mock interview
+S00924,M0098,T0023,Isabelle Patel,Olivia Robinson,Machine Learning,2022-11-19,30,Cancelled,,
+S00925,M0026,T0460,Lucas Sharma,Rohan Clark,Cloud Computing,2023-01-02,30,Completed,4.1,Project feedback
+S00926,M0051,T0415,Olivia Kim,Zara Johnson,Cybersecurity,2022-06-15,45,Completed,4.5,Covered system design
+S00927,M0101,T0115,Mei Davis,Fatima Lee,UI/UX Design,2022-07-05,30,No-show,4.5,Code review session
+S00928,M0032,T0205,Amara Lee,Alex Harris,Mobile Development,2022-04-02,30,Scheduled,4.9,Career roadmap planning
+S00929,M0145,T0103,Amara Wang,Emma Walker,UI/UX Design,2023-02-22,90,No-show,4.7,Covered system design
+S00930,M0016,T0302,Arjun Smith,Michael Tremblay,Data Science,2022-04-09,60,Completed,,Career roadmap planning
+S00931,M0199,T0040,Liam Wilson,Michael Müller,Machine Learning,2022-09-16,90,Completed,,Career roadmap planning
+S00932,M0057,T0300,Nadia Wilson,Emma Lee,Data Science,2022-07-25,45,Completed,4.3,Code review session
+S00933,M0172,T0085,Sarah Silva,Arjun Davis,Machine Learning,2023-04-08,30,Cancelled,,Mock interview
+S00934,M0075,T0425,Noah Robinson,Michael Lee,Machine Learning,2022-03-04,30,No-show,3.3,Mock interview
+S00935,M0156,T0260,Ethan Lee,Emma Anderson,Web Development,2022-01-13,30,Completed,3.1,Mock interview
+S00936,M0133,T0135,Aarav Ali,Daniel Smith,Cybersecurity,2023-07-31,60,Completed,3.4,Mock interview
+S00937,M0189,T0379,Noah Garcia,Mei Osei,Machine Learning,2023-05-26,45,Cancelled,,Code review session
+S00938,M0071,T0324,Ivan Kumar,Divya Clark,DevOps,2022-04-10,45,Cancelled,3.4,Career roadmap planning
+S00939,M0078,T0453,Kofi Thompson,Hannah Harris,Mobile Development,2023-12-25,45,Cancelled,,
+S00940,M0030,T0458,Kofi Lewis,Michael Anderson,Cloud Computing,2023-04-01,30,Cancelled,,Mock interview
+S00941,M0031,T0008,Lucas Lewis,Daniel Robinson,Cybersecurity,2022-05-04,60,Completed,,Project feedback
+S00942,M0178,T0388,Ahmed Sharma,Sarah Smith,Product Management,2022-07-04,45,Completed,4.2,Mock interview
+S00943,M0086,T0150,Ethan Thompson,Isabelle Clark,Product Management,2022-12-12,90,No-show,3.8,Career roadmap planning
+S00944,M0124,T0477,Elena Clark,Isabelle Smith,Machine Learning,2022-04-30,30,Completed,,Covered system design
+S00945,M0081,T0027,Ivan Wilson,James Anderson,Blockchain,2022-09-03,90,Completed,3.1,Discussed portfolio review
+S00946,M0194,T0291,Mei Davis,Elena Martinez,Data Science,2023-05-07,30,Cancelled,,Project feedback
+S00947,M0134,T0098,Michael Osei,Kofi Silva,Cybersecurity,2022-11-25,90,Cancelled,3.6,Covered system design
+S00948,M0083,T0341,Priya Kim,Chloe Davis,Product Management,2023-04-04,45,Completed,3.9,Career roadmap planning
+S00949,M0073,T0469,Tyler Martinez,Michael Walker,Product Management,2023-01-22,30,Scheduled,,Discussed portfolio review
+S00950,M0161,T0214,Isabelle Brown,Liam Lee,Data Science,2022-11-26,90,Cancelled,4.0,
+S00951,M0028,T0384,Daniel Patel,Aarav Rossi,Product Management,2022-10-22,30,Cancelled,3.4,Discussed portfolio review
+S00952,M0112,T0143,Chloe Lee,Elena Walker,Mobile Development,2022-11-11,45,No-show,3.1,Discussed portfolio review
+S00953,M0078,T0124,Kofi Thompson,Arjun White,Mobile Development,2022-02-18,60,Scheduled,,Mock interview
+S00954,M0015,T0065,Wei Wilson,Arjun Thompson,Cybersecurity,2022-02-23,90,No-show,4.7,Mock interview
+S00955,M0145,T0338,Amara Wang,Kiran Silva,UI/UX Design,2023-01-15,30,Completed,,Covered system design
+S00956,M0157,T0274,Liam Smith,Sana Lee,Cloud Computing,2022-08-15,60,Completed,4.0,Mock interview
+S00957,M0186,T0107,Liam Johnson,Sarah Brown,DevOps,2023-10-18,30,Completed,3.4,Project feedback
+S00958,M0156,T0067,Ethan Lee,Zara Johnson,Web Development,2022-04-30,60,Completed,4.3,
+S00959,M0003,T0238,Aarav Tremblay,Sana White,Web Development,2022-12-05,45,Scheduled,3.7,
+S00960,M0129,T0343,Sofia Ali,Kofi Wang,DevOps,2023-02-16,30,Completed,,Covered system design
+S00961,M0186,T0414,Liam Johnson,Carlos White,DevOps,2023-09-29,60,Scheduled,4.4,Project feedback
+S00962,M0104,T0185,Chloe Garcia,Divya White,Data Science,2022-11-14,45,No-show,3.5,Project feedback
+S00963,M0050,T0289,Pooja Anderson,Isabelle Brown,Blockchain,2022-01-11,90,Scheduled,4.7,Covered system design
+S00964,M0149,T0251,Isabelle Walker,Daniel Patel,DevOps,2023-05-15,60,Cancelled,,Project feedback
+S00965,M0006,T0064,Liam Lewis,Ethan Wang,Data Science,2023-02-09,30,No-show,3.3,Project feedback
+S00966,M0143,T0261,Rohan Kumar,Aisha Hall,UI/UX Design,2022-08-17,30,No-show,,Covered system design
+S00967,M0049,T0024,Zara Robinson,Arjun Patel,Cloud Computing,2023-05-16,30,Completed,3.3,Project feedback
+S00968,M0074,T0112,Ahmed Patel,Elena Kumar,DevOps,2022-09-20,90,Completed,3.6,Mock interview
+S00969,M0114,T0176,Yusuf Wilson,Aarav Johnson,DevOps,2022-09-25,30,Completed,4.8,Covered system design
+S00970,M0105,T0115,Ethan Wilson,Fatima Lee,DevOps,2022-03-30,90,Completed,,Discussed portfolio review
+S00971,M0041,T0096,Chloe Lewis,Kofi Robinson,Cloud Computing,2023-04-26,90,Completed,,Discussed portfolio review
+S00972,M0023,T0499,Kofi Wilson,Kiran Taylor,Mobile Development,2023-02-02,45,Completed,4.6,Covered system design
+S00973,M0042,T0359,Kofi Kim,Aarav Robinson,Mobile Development,2023-03-23,60,Scheduled,3.9,
+S00974,M0191,T0277,Ahmed Ali,Carlos Wang,Web Development,2022-02-12,45,Completed,3.1,Discussed portfolio review
+S00975,M0114,T0387,Yusuf Wilson,James Martinez,DevOps,2022-06-06,60,Completed,3.7,Covered system design
+S00976,M0019,T0500,Alex Smith,Divya Anderson,Product Management,2023-10-22,30,Scheduled,4.9,Mock interview
+S00977,M0085,T0485,Olivia Müller,Fatima White,Machine Learning,2022-03-07,45,Completed,3.7,Project feedback
+S00978,M0073,T0159,Tyler Martinez,Aisha Lee,Product Management,2023-03-26,30,Scheduled,,Covered system design
+S00979,M0133,T0083,Aarav Ali,Sarah Robinson,Cybersecurity,2023-09-09,60,Cancelled,,Mock interview
+S00980,M0087,T0258,Zara Sharma,Ivan Clark,Cloud Computing,2022-11-22,30,Completed,3.8,Mock interview
+S00981,M0130,T0405,Aisha Rossi,Kiran Ali,UI/UX Design,2022-01-18,45,No-show,3.7,Covered system design
+S00982,M0153,T0350,Lucas Kumar,Liam Wang,Cybersecurity,2022-04-17,45,Completed,4.1,
+S00983,M0147,T0228,Kofi Wilson,Olivia Silva,Product Management,2023-02-01,30,Completed,3.1,Mock interview
+S00984,M0041,T0311,Chloe Lewis,Kiran Wilson,Cloud Computing,2022-03-17,30,No-show,4.0,Mock interview
+S00985,M0144,T0019,Raj Thompson,Emma Sharma,Data Science,2023-10-23,90,Completed,3.8,Project feedback
+S00986,M0075,T0411,Noah Robinson,Ivan Wang,Machine Learning,2022-09-01,90,Cancelled,,Project feedback
+S00987,M0139,T0091,Raj Harris,Chloe Wilson,Mobile Development,2023-04-11,90,Completed,4.8,Covered system design
+S00988,M0033,T0125,Pooja Silva,Kofi Martinez,Blockchain,2022-05-28,60,No-show,4.9,Career roadmap planning
+S00989,M0125,T0325,Alex Thompson,Arjun Harris,Blockchain,2022-09-21,45,Completed,3.9,Code review session
+S00990,M0042,T0469,Kofi Kim,Michael Walker,Mobile Development,2022-05-28,30,Scheduled,4.8,
+S00991,M0193,T0376,Michael Lee,Mei Tremblay,Data Science,2022-08-21,90,Completed,3.7,Career roadmap planning
+S00992,M0025,T0422,Riya Lewis,Isabelle Smith,Data Science,2023-03-08,90,Scheduled,3.9,Career roadmap planning
+S00993,M0013,T0180,Lucas Smith,Ethan Lee,Web Development,2023-04-20,60,Completed,3.8,Project feedback
+S00994,M0001,T0426,Nadia Garcia,Divya Clark,Web Development,2023-06-27,45,Completed,,Covered system design
+S00995,M0188,T0405,Arjun Wang,Kiran Ali,Web Development,2023-08-06,45,No-show,4.2,Career roadmap planning
+S00996,M0142,T0169,Kofi Tremblay,Omar Wang,Web Development,2023-07-16,90,Completed,3.4,Covered system design
+S00997,M0081,T0207,Ivan Wilson,Emma White,Blockchain,2023-04-27,30,Cancelled,3.6,
+S00998,M0005,T0445,Nadia White,Aarav Thompson,DevOps,2023-10-01,90,Completed,,Code review session
+S00999,M0106,T0157,Carlos Patel,Pooja Garcia,Product Management,2023-07-19,45,No-show,4.0,Covered system design
+S01000,M0054,T0200,Chloe Taylor,Aisha Silva,Web Development,2023-03-30,30,No-show,,Mock interview
